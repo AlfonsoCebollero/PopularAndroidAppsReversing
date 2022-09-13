@@ -1,0 +1,256 @@
+Enumerating methods...
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.bdlocation.traceroute.service.TraceRouteService",
+        "methods": [
+          "INVOKESTATIC_com_bytedance_bdlocation_traceroute_service_TraceRouteService_com_ss_android_ugc_aweme_lancet_thread_ThreadPoolLancet_newSingleThreadExecutor"
+        ]
+      },
+      {
+        "name": "com.bytedance.globalpayment.iap.google.service.provider.GoogleIapExternalServiceProvider",
+        "methods": [
+          "INVOKEVIRTUAL_com_bytedance_globalpayment_iap_google_service_provider_GoogleIapExternalServiceProvider_com_bytedance_analytics_expose_HookRecyclerView_startActivity",
+          "INVOKEVIRTUAL_com_bytedance_globalpayment_iap_google_service_provider_GoogleIapExternalServiceProvider_com_ss_android_ugc_tiktok_security_lancet_ContextLancet_startActivity"
+        ]
+      },
+      {
+        "name": "com.bytedance.ies.abmock.ClientExpManager",
+        "methods": [
+          "low_storage_aot_service_type_v259"
+        ]
+      }
+    ]
+  }
+]
+
+
+Enumerating methods...
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.android.livesdk.comp.impl.network.NetworkService",
+        "methods": [
+          "getForceServiceV2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live.SlotService",
+        "methods": [
+          "getFrameL2SlotWidget"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.gift.assets.VideoResource",
+        "methods": [
+          "component2"
+        ]
+      },
+      {
+        "name": "com.bytedance.apm.core.ActivityLifeObserver",
+        "methods": [
+          "isV2Foreground"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.SsHttpCall",
+        "methods": [
+          "com_bytedance_retrofit2_SsHttpCall_com_ss_android_ugc_aweme_net_lancet_NetIOCheckLancet_execute",
+          "com_bytedance_retrofit2_SsHttpCall__execute$___twin___"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.feed.tab.FeedUrlService",
+        "methods": [
+          "createDrawerFeedFragmentV2",
+          "lambda$requestTabInNetWorkState$2$FeedUrlService"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.i18n.I18nDbManager",
+        "methods": [
+          "lambda$queryTranslations$2$I18nDbManager"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.host.IHostUser",
+        "methods": [
+          "popCaptchaV2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.rank.impl.api.RankApi",
+        "methods": [
+          "getRankListV2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.broadcast.BroadcastService",
+        "methods": [
+          "lambda$preloadRetrofitApi$2$BroadcastService"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.CallServerInterceptor",
+        "methods": [
+          "com_bytedance_retrofit2_CallServerInterceptor_com_ss_android_ugc_aweme_feed_lancet_NetworkUtilsLancet_createRawCall",
+          "com_bytedance_retrofit2_CallServerInterceptor_com_ss_android_ugc_aweme_feed_lancet_NetworkUtilsLancet_executeCall",
+          "com_bytedance_retrofit2_CallServerInterceptor_com_ss_android_ugc_aweme_feed_lancet_NetworkUtilsLancet_parseResponse",
+          "com_bytedance_retrofit2_CallServerInterceptor__createRawCall$___twin___",
+          "com_bytedance_retrofit2_CallServerInterceptor__executeCall$___twin___",
+          "com_bytedance_retrofit2_CallServerInterceptor__parseResponse$___twin___"
+        ]
+      },
+      {
+        "name": "com.bytedance.geckox.settings.model.GlobalConfigSettings$CurrentLevelConfig",
+        "methods": [
+          "getPrefix2AccessKey"
+        ]
+      },
+      {
+        "name": "com.bytedance.crash.Npth",
+        "methods": [
+          "setAlogFlushV2Addr"
+        ]
+      },
+      {
+        "name": "com.bytedance.assem.arch.viewModel.AssemViewModel",
+        "methods": [
+          "bridge$lambda$2$AssemViewModel",
+          "execute$lambda-2",
+          "syncItem2State$default",
+          "syncItem2State",
+          "syncState2Item"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.init.BadPhonesCommonOptTask",
+        "methods": [
+          "lambda$preloadConfigs$2$BadPhonesCommonOptTask"
+        ]
+      },
+      {
+        "name": "com.bytedance.frameworks.baselib.network.http.cronet.ICronetAppProvider",
+        "methods": [
+          "isEnableHttp2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.Skin",
+        "methods": [
+          "component2"
+        ]
+      },
+      {
+        "name": "com.bytedance.router.monitor.MonitorActivityLifecycleListener$onActivityCreated$2",
+        "methods": [
+          "INVOKEVIRTUAL_com_bytedance_router_monitor_MonitorActivityLifecycleListener$onActivityCreated$2_com_ss_android_ugc_aweme_lancet_IntentLancet_getStringExtra"
+        ]
+      },
+      {
+        "name": "com.bytedance.ies.abmock.ClientExpManager",
+        "methods": [
+          "active_clean_client_type_v2550",
+          "feed_total_v2_opt",
+          "kr_consent_box_optimization_v2",
+          "leakcanary_clean_type_v2550",
+          "low_storage_aot_service_type_v259",
+          "new_user_aggregated_2_optimization",
+          "new_user_aggregation_2022_optimization",
+          "old_offline_clean_v2",
+          "tablet_support_landscape_v2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live.base.model.roomcomponents.RoomComponentsResponse",
+        "methods": [
+          "component2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live.game.IGameTopicService",
+        "methods": [
+          "showGameCategoryListDialog2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.comp.api.network.INetworkService",
+        "methods": [
+          "getForceServiceV2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.gift.assets.AssetsModel",
+        "methods": [
+          "component12",
+          "component2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.model.RoomAuthStatus",
+        "methods": [
+          "isChatL2Enabled",
+          "setChatL2Enabled"
+        ]
+      },
+      {
+        "name": "com.bytedance.mobsec.matrix.utils.o.TN",
+        "methods": [
+          "p2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.gift.assets.FaceRecognitionMeta",
+        "methods": [
+          "component2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.feed.api.ILiveFeedApiService",
+        "methods": [
+          "createDrawerFeedFragmentV2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.model.MaskLayer",
+        "methods": [
+          "isR2OrUnknownMask"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitorV2.HybridMultiMonitor",
+        "methods": [
+          "INVOKEVIRTUAL_com_bytedance_android_monitorV2_HybridMultiMonitor_com_ss_android_ugc_aweme_lancet_launch_ApplicationContextLancet_getApplicationContext"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live.base.model.roomcomponents.OnlineRankConfig",
+        "methods": [
+          "component2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live.slot.ISlotService",
+        "methods": [
+          "getFrameL2SlotWidget"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.game.GameTopicService",
+        "methods": [
+          "showGameCategoryListDialog2"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesettings.LiveSettingsCollector_livebase",
+        "methods": [
+          "findSettingsMethod_2"
+        ]
+      }
+    ]
+  }
+]

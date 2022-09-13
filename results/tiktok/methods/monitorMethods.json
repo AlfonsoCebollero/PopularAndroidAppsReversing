@@ -1,0 +1,735 @@
+Enumerating methods...
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.android.monitorV2.forest.ForestMonitorHelper",
+        "methods": [
+          "$init",
+          "startMonitor"
+        ]
+      },
+      {
+        "name": "com.bytedance.ies.android.base.runtime.depend.IMonitorDepend",
+        "methods": [
+          "ensureNotReachHere",
+          "monitorCommonLog",
+          "monitorStatusAndDuration",
+          "monitorStatusRate"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.host.IHostPerformanceMonitor",
+        "methods": [
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL",
+          "LJ",
+          "LJFF",
+          "LJI"
+        ]
+      },
+      {
+        "name": "com.bytedance.apm.impl.RetrofitMonitorService",
+        "methods": [
+          "fetch",
+          "report",
+          "uploadFiles"
+        ]
+      },
+      {
+        "name": "com.bytedance.crash.MonitorCrash",
+        "methods": [
+          "$init",
+          "init",
+          "initSDK",
+          "addTags",
+          "config",
+          "reportCustomErr",
+          "reportEvent",
+          "setCustomDataCallback",
+          "withOtherHeaders"
+        ]
+      },
+      {
+        "name": "com.bytedance.helios.binder.impl.BinderMonitor",
+        "methods": [
+          "$init",
+          "get",
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.livesdk.impl.base.LiveImageMonitorService",
+        "methods": [
+          "$init",
+          "LIZ",
+          "onInit"
+        ]
+      },
+      {
+        "name": "com.bytedance.router.monitor.RouterMonitor",
+        "methods": [
+          "$init",
+          "INVOKEVIRTUAL_com_bytedance_router_monitor_RouterMonitor_com_ss_android_ugc_aweme_lancet_IntentLancet_get",
+          "formatRouteLog",
+          "generateRouteId",
+          "reportFail$default",
+          "stopAllMeasureDuration",
+          "collectExtra",
+          "collectParam",
+          "collectParams",
+          "init",
+          "markRouterJump",
+          "reportFail",
+          "reportIfUrlChanged",
+          "reportIntercepted",
+          "reportPageJump",
+          "reportSuccess",
+          "setRouterMonitorListener",
+          "startMeasureDuration",
+          "startRoute",
+          "stopMeasureDuration",
+          "targetClass"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live_settings.Monitor",
+        "methods": [
+          "performanceMonitor",
+          "reportException"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitorV2.HybridMultiMonitor$1",
+        "methods": [
+          "$init",
+          "run"
+        ]
+      },
+      {
+        "name": "com.bytedance.monitor.collector.BinderMonitor",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "getStacktrace",
+          "saveBinderInfo",
+          "LIZJ",
+          "LIZLLL"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitorV2.HybridMultiMonitor$2",
+        "methods": [
+          "$init",
+          "getCommonParams",
+          "getSessionId"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitorV2.HybridMultiMonitor$3",
+        "methods": [
+          "$init",
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitorV2.HybridMultiMonitor$4",
+        "methods": [
+          "$init",
+          "run"
+        ]
+      },
+      {
+        "name": "com.bytedance.webx.monitor.falconx.FalconXMonitor",
+        "methods": [
+          "$init",
+          "getInstance",
+          "beginMonitor"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.livesetting.other.LiveChainMonitorExcludeErrorCodesSetting",
+        "methods": [
+          "$init",
+          "getValue"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live_settings.MonitorImpl",
+        "methods": [
+          "$init",
+          "performanceMonitor",
+          "reportException"
+        ]
+      },
+      {
+        "name": "com.bytedance.services.apm.api.IMonitorLogManager",
+        "methods": [
+          "deleteLegacyLogByIds",
+          "getLegacyLog",
+          "getRecentUiActionRecords"
+        ]
+      },
+      {
+        "name": "com.bytedance.webx.monitor.falconx.FalconXMonitor$1",
+        "methods": [
+          "$init",
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.monitor.collector.MonitorJni",
+        "methods": [
+          "$init",
+          "disableBinderHook",
+          "disableSocketHook",
+          "doCloseLockStackTrace",
+          "doCollect",
+          "doDestroy",
+          "doDisableAtrace",
+          "doDisableIO",
+          "doDumpAtrace",
+          "doDumpAtraceRange",
+          "doDumpAtraceRangeToALog",
+          "doEnableAtrace",
+          "doEnableIO",
+          "doEnableLock",
+          "doGetCpuTime",
+          "doGetSchedInfo",
+          "doInit",
+          "doOpenLockStackTrace",
+          "doSetDebugMode",
+          "doSetRecordSwitch",
+          "doStart",
+          "doStop",
+          "dumpProcInfoTimeRangeToALog",
+          "enableBinderHook",
+          "enableSocketHook",
+          "fetchTrafficStats",
+          "getProcCGroup",
+          "getProcInfoTimeRange",
+          "getProcInfos",
+          "getStack",
+          "getThreadStatInfo",
+          "getTotalCPUTimeByTimeInStat",
+          "keepProcHyperOpen",
+          "setAlogInstance",
+          "setBufferSize",
+          "startHyperMonitor",
+          "stopHyperMonitor",
+          "storeNativeStack"
+        ]
+      },
+      {
+        "name": "com.bytedance.keva.KevaMonitor",
+        "methods": [
+          "$init",
+          "INVOKESTATIC_com_bytedance_keva_KevaMonitor_com_ss_android_ugc_aweme_lancet_LoadSoLancet_loadLibrary",
+          "loadLibrary",
+          "logDebug",
+          "onLoadRepo",
+          "reportThrowable",
+          "reportWarning"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.livesetting.other.LivePipoMonitorHostSetting",
+        "methods": [
+          "$init",
+          "getValue"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.thirdcomponent.monitor.Monitor",
+        "methods": [
+          "init",
+          "monitorEvent",
+          "threadException"
+        ]
+      },
+      {
+        "name": "com.bytedance.sync.v2.WsMonitor",
+        "methods": [
+          "$init",
+          "onAnyActivityPause",
+          "onAnyActivityResume",
+          "onAnyActivityStart",
+          "onAnyActivityStop",
+          "LIZ",
+          "onStateChanged"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.livesetting.performance.LiveALogAndMonitorDegradeAllowListSetting",
+        "methods": [
+          "$init",
+          "getDEFAULT",
+          "getValue"
+        ]
+      },
+      {
+        "name": "com.bytedance.monitor.collector.LockMonitorManager$1",
+        "methods": [
+          "$init",
+          "newThread"
+        ]
+      },
+      {
+        "name": "com.bytedance.monitor.collector.LockMonitorManager$2",
+        "methods": [
+          "$init",
+          "newThread"
+        ]
+      },
+      {
+        "name": "com.bytedance.helios.sdk.LifecycleMonitor$2",
+        "methods": [
+          "$init",
+          "onStarted",
+          "onStateChanged",
+          "onStopped"
+        ]
+      },
+      {
+        "name": "com.bytedance.router.monitor.MonitorActivityLifecycleListener$onActivityCreated$2",
+        "methods": [
+          "$init",
+          "INVOKEVIRTUAL_com_bytedance_router_monitor_MonitorActivityLifecycleListener$onActivityCreated$2_com_ss_android_ugc_aweme_lancet_IntentLancet_getStringExtra",
+          "onFragmentCreated"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.livesetting.performance.LiveALogAndMonitorDegradeSetting",
+        "methods": [
+          "$init",
+          "getValue"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitor.HybridMonitor$1",
+        "methods": [
+          "$init",
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitor.HybridMonitor$2",
+        "methods": [
+          "$init",
+          "run"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitor.HybridMonitor$3",
+        "methods": [
+          "$init",
+          "run"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitor.HybridMonitor$4",
+        "methods": [
+          "$init",
+          "run"
+        ]
+      },
+      {
+        "name": "com.bytedance.monitor.collector.IOMonitor",
+        "methods": [
+          "$init",
+          "LIZIZ",
+          "LIZLLL",
+          "saveIOInfo",
+          "LIZ",
+          "LIZJ"
+        ]
+      },
+      {
+        "name": "com.bytedance.librarian.LibrarianMonitor",
+        "methods": [
+          "$init",
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.apm.agent.monitor.MonitorTool",
+        "methods": [
+          "$init",
+          "monitorPerformance",
+          "monitorSLA",
+          "monitorStart",
+          "monitorUIAction",
+          "reportTraceTime"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.bdcomponentimpl.monitor.APMMonitorImpl",
+        "methods": [
+          "$init",
+          "getMMonitor$bdcomponent_release",
+          "getSi",
+          "init",
+          "monitorEvent",
+          "setMMonitor$bdcomponent_release",
+          "setSi",
+          "threadException"
+        ]
+      },
+      {
+        "name": "com.bytedance.router.monitor.RouterMonitorListener",
+        "methods": [
+          "onReport",
+          "onReportPageJump"
+        ]
+      },
+      {
+        "name": "com.bytedance.vmsdk.monitor.VmSdkMonitor$1",
+        "methods": [
+          "$init",
+          "getCommonParams",
+          "getSessionId"
+        ]
+      },
+      {
+        "name": "com.bytedance.apm.agent.monitor.MonitorTool$2",
+        "methods": [
+          "$init",
+          "run"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.monitor.adapter.MonitorServiceImpl",
+        "methods": [
+          "$init",
+          "LIZJ",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.common.impl.event.monitor.EventMonitorImpl",
+        "methods": [
+          "$init",
+          "monitorDuration",
+          "monitorEvent",
+          "monitorStatusAndDuration",
+          "monitorStatusAndEvent",
+          "monitorStatusRate"
+        ]
+      },
+      {
+        "name": "com.bytedance.livesdk.api.base.ILiveImageMonitorService",
+        "methods": [
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.router.monitor.MonitorActivityLifecycleListener",
+        "methods": [
+          "$init",
+          "INVOKEVIRTUAL_com_bytedance_router_monitor_MonitorActivityLifecycleListener_com_ss_android_ugc_aweme_lancet_IntentLancet_getStringExtra",
+          "onActivityCreated",
+          "onActivityDestroyed",
+          "onActivityPaused",
+          "onActivityResumed",
+          "onActivitySaveInstanceState",
+          "onActivityStarted",
+          "onActivityStopped"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.init.MonitorInitTask",
+        "methods": [
+          "$init",
+          "INVOKEVIRTUAL_com_bytedance_android_livesdk_init_MonitorInitTask_com_ss_android_ugc_aweme_lancet_launch_ApplicationContextLancet_getApplicationContext",
+          "initHybridMonitor",
+          "getTaskName",
+          "run"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.common.interfaces.IExceptionMonitor",
+        "methods": [
+          "monitorNativeException",
+          "monitorThrowable",
+          "setDebugMode"
+        ]
+      },
+      {
+        "name": "com.bytedance.helios.binder.impl.BinderMonitor$Companion",
+        "methods": [
+          "$init",
+          "get"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.monitor.adapter.api.IMonitorService",
+        "methods": [
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitorV2.HybridMultiMonitor",
+        "methods": [
+          "$init",
+          "INVOKEVIRTUAL_com_bytedance_android_monitorV2_HybridMultiMonitor_com_ss_android_ugc_aweme_lancet_launch_ApplicationContextLancet_getApplicationContext",
+          "getInstance",
+          "initComponent",
+          "initDebugEnvir",
+          "initEventConsumer",
+          "initFileRecord",
+          "initInternalMonitor",
+          "injectFalconX",
+          "injectForest",
+          "injectWebOffline",
+          "isDebuggable",
+          "isOutputFile",
+          "setDebuggable",
+          "setOutputFile",
+          "customReport",
+          "customReportInner",
+          "getApplication",
+          "getCustomReportMonitor",
+          "getExceptionHandler",
+          "getHybridSettingManager",
+          "init",
+          "initHybridSetting",
+          "lambda$initComponent$0$HybridMultiMonitor",
+          "notifyReportInterceptor",
+          "registerBusinessEventListener",
+          "registerHybridEventListener",
+          "registerReportInterceptor",
+          "registerTouchCallback",
+          "setConfig",
+          "setCustomReportMonitor",
+          "setExceptionHandler",
+          "unregisterBusinessEventListener",
+          "unregisterHybridEventListener",
+          "unregisterReportInterceptor",
+          "updateSampleConfigsFromNet",
+          "wrapTouchTraceCallback"
+        ]
+      },
+      {
+        "name": "com.bytedance.monitor.collector.LockMonitorManager",
+        "methods": [
+          "$init",
+          "INVOKESTATIC_com_bytedance_monitor_collector_LockMonitorManager_com_ss_android_ugc_aweme_lancet_thread_ThreadPoolLancet_newSingleThreadExecutor",
+          "dumpLockInfo",
+          "endLockDetect",
+          "enqueue",
+          "nativeGetJavaStack",
+          "nativePut",
+          "packJsonData",
+          "reportLockInfo",
+          "setOpenFetchStack",
+          "startLockDetect"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitor.HybridMonitor",
+        "methods": [
+          "$init",
+          "getInstance",
+          "initComponent",
+          "initDebugEnvir",
+          "initFileRecord",
+          "injectFalconX",
+          "injectWebOffline",
+          "isDebuggable",
+          "isOutputFile",
+          "setDebuggable",
+          "setOutputFile",
+          "DisableReportInfo",
+          "clearDisableReportInfo",
+          "clearSetting",
+          "customReport",
+          "getApplication",
+          "getCustomReportMonitor",
+          "getExceptionHandler",
+          "getSettingManager",
+          "init",
+          "initSetting",
+          "isAbTestEnable",
+          "notifyReportInterceptor",
+          "registerDisableReportInfo",
+          "registerReportInterceptor",
+          "registerTouchCallback",
+          "setAbTestEnable",
+          "setCustomReportMonitor",
+          "setExceptionHandler",
+          "unregisterReportInterceptor",
+          "wrapTouchTraceCallback"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.common.impl.exception.monitor.ExceptionMonitorImpl",
+        "methods": [
+          "$init",
+          "monitorNativeException",
+          "monitorThrowable",
+          "setDebugMode"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.livesetting.other.NetMonitorAllowListSettings",
+        "methods": [
+          "$init",
+          "getValue"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.model.message._GiftMonitorInfo_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.helios.sdk.ApiMonitorService",
+        "methods": [
+          "$init",
+          "init",
+          "onNewSettings",
+          "setAppLog",
+          "setEventMonitor",
+          "setExceptionMonitor",
+          "setLogger",
+          "setRuleEngine",
+          "setStore",
+          "start",
+          "stop"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.model.message.GiftMonitorInfo",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.common.graphics.GraphicsMonitor$1",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.sync.v2.WsMonitor$1",
+        "methods": [
+          "$init",
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.sync.v2.WsMonitor$2",
+        "methods": [
+          "$init",
+          "run"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.common.interfaces.IEventMonitor",
+        "methods": [
+          "monitorDuration",
+          "monitorEvent",
+          "monitorStatusAndDuration",
+          "monitorStatusAndEvent",
+          "monitorStatusRate"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live.base.service.IHostMonitor",
+        "methods": [
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.crash.MonitorCrash$Config",
+        "methods": [
+          "$init",
+          "setChannel",
+          "setDeviceId",
+          "setPackageName",
+          "setSoList",
+          "setUID"
+        ]
+      },
+      {
+        "name": "com.bytedance.apm.battery.dao.MonitorContentProvider",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "call",
+          "delete",
+          "getType",
+          "insert",
+          "onCreate",
+          "query",
+          "update"
+        ]
+      },
+      {
+        "name": "com.bytedance.livesdk.impl.base.LiveSlardarMonitorService",
+        "methods": [
+          "$init",
+          "onInit"
+        ]
+      },
+      {
+        "name": "com.bytedance.common.graphics.GraphicsMonitor",
+        "methods": [
+          "$init",
+          "INVOKESTATIC_com_bytedance_common_graphics_GraphicsMonitor_com_ss_android_ugc_aweme_lancet_thread_ThreadPoolLancet_newScheduledThreadPool",
+          "closeStatistical",
+          "getByteGpu",
+          "getStatisticOnceData",
+          "init",
+          "initGraphicsLoad",
+          "isStart",
+          "openStatistical",
+          "start",
+          "startHook",
+          "stop"
+        ]
+      },
+      {
+        "name": "com.bytedance.vmsdk.monitor.VmSdkMonitor",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "getSettings",
+          "monitorEvent"
+        ]
+      },
+      {
+        "name": "com.bytedance.framwork.core.sdkmonitor.SDKMonitorUtils",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.geckox.GeckoGlobalConfig$IMonitorConfig",
+        "methods": [
+          "getChannel",
+          "getCommonParams",
+          "getMonitorHost",
+          "getPackageId",
+          "getUpdateVersionCode",
+          "isOversea"
+        ]
+      }
+    ]
+  }
+]

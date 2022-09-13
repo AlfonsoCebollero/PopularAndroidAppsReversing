@@ -1,0 +1,233 @@
+Enumerating methods...
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.helios.nativeaudio.NativeAudioService", 
+        "methods": [
+          "setAppLog"
+        ]
+      },
+      {
+        "name": "com.bytedance.helios.binder.impl.BinderService",      
+        "methods": [
+          "setAppLog"
+        ]
+      },
+      {
+        "name": "com.bytedance.lynx.hybrid.resource.config.GeckoConfig",
+        "methods": [
+          "getAppLogMonitor",
+          "setAppLogMonitor"
+        ]
+      },
+      {
+        "name": "com.bytedance.ies.common.IESAppLogger",
+        "methods": [
+          "setAppLogCallback"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.jniwrapper.PitayaNativeInstance",        "methods": [
+          "nativeRegisterAppLogCallback",
+          "nativeRemoveAppLogCallback"
+        ]
+      },
+      {
+        "name": "com.bytedance.helios.consumer.DefaultConsumerComponent",
+        "methods": [
+          "setAppLog"
+        ]
+      },
+      {
+        "name": "com.bytedance.helios.sdk.ApiMonitorService",
+        "methods": [
+          "setAppLog"
+        ]
+      },
+      {
+        "name": "com.bytedance.ies.bullet.service.base.resourceloader.config.GeckoConfig",
+        "methods": [
+          "getAppLogMonitor",
+          "setAppLogMonitor"
+        ]
+      },
+      {
+        "name": "com.bytedance.helios.sdk.appops.AppOpsService",       
+        "methods": [
+          "setAppLog"
+        ]
+      }
+    ]
+  }
+]
+
+
+Enumerating methods...
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.ies.android.base.runtime.depend.IMonitorDepend",
+        "methods": [
+          "monitorCommonLog",
+          "monitorStatusAndDuration",
+          "monitorStatusRate"
+        ]
+      },
+      {
+        "name": "com.bytedance.router.monitor.RouterMonitor",
+        "methods": [
+          "INVOKEVIRTUAL_com_bytedance_router_monitor_RouterMonitor_com_ss_android_ugc_aweme_lancet_IntentLancet_get"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.utils.LiveAppBundleUtils",
+        "methods": [
+          "monitorLoadFailed",
+          "monitorLoadSuccess",
+          "monitorStartLoad"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.thirdcomponent.monitor.Monitor",
+        "methods": [
+          "monitorEvent"
+        ]
+      },
+      {
+        "name": "com.bytedance.services.apm.api.IApmAgent",
+        "methods": [
+          "monitorCommonLog",
+          "monitorDuration",
+          "monitorEvent",
+          "monitorExceptionLog",
+          "monitorLog",
+          "monitorStatusAndDuration",
+          "monitorStatusRate"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.jniwrapper.DefaultAdapter",
+        "methods": [
+          "monitor"
+        ]
+      },
+      {
+        "name": "com.bytedance.router.monitor.MonitorActivityLifecycleListener$onActivityCreated$2",
+        "methods": [
+          "INVOKEVIRTUAL_com_bytedance_router_monitor_MonitorActivityLifecycleListener$onActivityCreated$2_com_ss_android_ugc_aweme_lancet_IntentLancet_getStringExtra"
+        ]
+      },
+      {
+        "name": "com.bytedance.apm.agent.monitor.MonitorTool",
+        "methods": [
+          "monitorPerformance",
+          "monitorSLA",
+          "monitorStart",
+          "monitorUIAction"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.bdcomponentimpl.monitor.APMMonitorImpl",
+        "methods": [
+          "monitorEvent"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.GiftService",
+        "methods": [
+          "monitorBroadcastClicked",
+          "monitorBroadcastMonitor",
+          "monitorGiftIconShow"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.common.impl.event.monitor.EventMonitorImpl",
+        "methods": [
+          "monitorDuration",
+          "monitorEvent",
+          "monitorStatusAndDuration",
+          "monitorStatusAndEvent",
+          "monitorStatusRate"
+        ]
+      },
+      {
+        "name": "com.bytedance.router.monitor.MonitorActivityLifecycleListener",
+        "methods": [
+          "INVOKEVIRTUAL_com_bytedance_router_monitor_MonitorActivityLifecycleListener_com_ss_android_ugc_aweme_lancet_IntentLancet_getStringExtra"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live.gift.IGiftService",
+        "methods": [
+          "monitorBroadcastClicked",
+          "monitorBroadcastMonitor",
+          "monitorGiftIconShow"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.common.interfaces.IExceptionMonitor",
+        "methods": [
+          "monitorNativeException",
+          "monitorThrowable"
+        ]
+      },
+      {
+        "name": "com.bytedance.ttnet.TTNetInit",
+        "methods": [
+          "monitorLogSend"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.monitorV2.HybridMultiMonitor",
+        "methods": [
+          "INVOKEVIRTUAL_com_bytedance_android_monitorV2_HybridMultiMonitor_com_ss_android_ugc_aweme_lancet_launch_ApplicationContextLancet_getApplicationContext"
+        ]
+      },
+      {
+        "name": "com.bytedance.monitor.collector.LockMonitorManager",
+        "methods": [
+          "INVOKESTATIC_com_bytedance_monitor_collector_LockMonitorManager_com_ss_android_ugc_aweme_lancet_thread_ThreadPoolLancet_newSingleThreadExecutor"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.common.impl.exception.monitor.ExceptionMonitorImpl",
+        "methods": [
+          "monitorNativeException",
+          "monitorThrowable"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.jniwrapper.IAdapter",
+        "methods": [
+          "monitor"
+        ]
+      },
+      {
+        "name": "com.bytedance.geckox.GeckoGlobalConfig$Builder",
+        "methods": [
+          "monitorConfig"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.common.interfaces.IEventMonitor",
+        "methods": [
+          "monitorDuration",
+          "monitorEvent",
+          "monitorStatusAndDuration",
+          "monitorStatusAndEvent",
+          "monitorStatusRate"
+        ]
+      },
+      {
+        "name": "com.bytedance.vmsdk.monitor.VmSdkMonitor",
+        "methods": [
+          "monitorEvent"
+        ]
+      }
+    ]
+  }
+]

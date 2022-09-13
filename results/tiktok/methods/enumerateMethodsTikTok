@@ -1,0 +1,1570 @@
+ {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.MainFragmentBusinessAbility",    
+        "methods": [
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.inflate.MainFragmentTopLeftIconInflate",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "key",
+          "meetTrigger",
+          "prefix",
+          "run",
+          "scenesType",
+          "targetProcess",
+          "triggerOtherLegoComponents",
+          "triggerType"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.security.ClientSecurityServiceImpl",
+        "methods": [
+          "$init",
+          "LIZJ",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainactivity.LegacyPlayerActivityAssem",
+        "methods": [
+          "$init",
+          "LJIJJLI",
+          "LJII",
+          "LJIIJJI",
+          "LJIILIIL",
+          "LJIILL",
+          "LJIIZILJ",
+          "cV_"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainactivity.PerformanceActivityObserver$LikoInitTask",
+        "methods": [
+          "$init",
+          "key",
+          "meetTrigger",
+          "prefix",
+          "run",
+          "scenesType",
+          "serialExecute",
+          "targetProcess",
+          "triggerOtherLegoComponents",
+          "triggerType",
+          "type"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.location.serviceimpl.LocationServiceImpl",
+        "methods": [
+          "$init",
+          "LIZJ",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.location_api.service.ILocationService",
+        "methods": [
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.TopTabProtocol",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL",
+          "LJ",
+          "LJFF",
+          "LJI",
+          "LJII",
+          "LJIIIIZZ",
+          "LJIIIZ",
+          "LJIIJ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainpagefragment.dialog.FissionPopupWindowHelp",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "getSubscriberEventTypes",
+          "onPause",
+          "onResume",
+          "onScrolledToProfileTab",
+          "onStateChanged"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.location.task.InitLocationTask",
+        "methods": [
+          "$init",
+          "key",
+          "meetTrigger",
+          "prefix",
+          "run",
+          "scenesType",
+          "serialExecute",
+          "targetProcess",
+          "triggerOtherLegoComponents",
+          "triggerType",
+          "type"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.services.MainFragmentCacheExpServiceImpl",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.services.MainPageFragmentImpl",
+        "methods": [
+          "$init",
+          "LJII",
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL",
+          "LJ",
+          "LJFF",
+          "LJI"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainactivity.PreloadActicityTask",
+        "methods": [
+          "$init",
+          "key",
+          "meetTrigger",
+          "prefix",
+          "run",
+          "scenesType",
+          "serialExecute",
+          "targetProcess",
+          "triggerOtherLegoComponents",
+          "triggerType",
+          "type"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.deeplink.IDeepLinkSecurityService",
+        "methods": [
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainactivity.LocalTestActivityAssem",
+        "methods": [
+          "$init",
+          "LJII",
+          "LJIILIIL"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.inflate.MainFragmentTopRightIconInflate",
+        "methods": [
+          "$init",
+          "LIZ",
+          "key",
+          "meetTrigger",
+          "prefix",
+          "run",
+          "scenesType",
+          "targetProcess",
+          "triggerOtherLegoComponents",
+          "triggerType"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.HomeTabAbility",
+        "methods": [
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainpagefragment.dialog.SafeInfoNoticePopupWindowHelp",
+        "methods": [
+          "$init",
+          "LIZIZ",
+          "LIZ",
+          "getSubscriberEventTypes",
+          "onDiscoverSearchEvent",
+          "onPause",
+          "onResume",
+          "onSafeInfoNoticeEvent",
+          "onShowPolicyNoticeToastEvent",
+          "onStateChanged"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.toolbar.search.SearchIconTipsHelper",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LJFF",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL",
+          "LJ",
+          "onStateChanged",
+          "release"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.security.monitor.jsb.BridgeHook",
+        "methods": [
+          "$init",
+          "hookCallback",
+          "hookParams",
+          "hookReturn",
+          "hookWebCallback",
+          "init"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.BottomTabProtocol",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL",
+          "LJ",
+          "LJFF",
+          "LJI",
+          "LJII",
+          "LJIIIIZZ"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.deeplink.impl.DeeplinkPrefetchImpl",
+        "methods": [
+          "$init",
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainactivity.PerformanceActivityObserver$LikoInitTask$2",
+        "methods": [
+          "$init",
+          "LIZ"
+        ]
+      }
+    ]
+  }
+]
+Enumerating methods...
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.MainFragmentBusinessAbility",
+        "methods": [
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.inflate.MainFragmentTopLeftIconInflate",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "key",
+          "meetTrigger",
+          "prefix",
+          "run",
+          "scenesType",
+          "targetProcess",
+          "triggerOtherLegoComponents",
+          "triggerType"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.security.ClientSecurityServiceImpl",
+        "methods": [
+          "$init",
+          "LIZJ",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainactivity.LegacyPlayerActivityAssem",
+        "methods": [
+          "$init",
+          "LJIJJLI",
+          "LJII",
+          "LJIIJJI",
+          "LJIILIIL",
+          "LJIILL",
+          "LJIIZILJ",
+          "cV_"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainactivity.PerformanceActivityObserver$LikoInitTask",
+        "methods": [
+          "$init",
+          "key",
+          "meetTrigger",
+          "prefix",
+          "run",
+          "scenesType",
+          "serialExecute",
+          "targetProcess",
+          "triggerOtherLegoComponents",
+          "triggerType",
+          "type"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.location.serviceimpl.LocationServiceImpl",
+        "methods": [
+          "$init",
+          "LIZJ",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.location_api.service.ILocationService",
+        "methods": [
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.TopTabProtocol",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL",
+          "LJ",
+          "LJFF",
+          "LJI",
+          "LJII",
+          "LJIIIIZZ",
+          "LJIIIZ",
+          "LJIIJ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainpagefragment.dialog.FissionPopupWindowHelp",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "getSubscriberEventTypes",
+          "onPause",
+          "onResume",
+          "onScrolledToProfileTab",
+          "onStateChanged"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.location.task.InitLocationTask",
+        "methods": [
+          "$init",
+          "key",
+          "meetTrigger",
+          "prefix",
+          "run",
+          "scenesType",
+          "serialExecute",
+          "targetProcess",
+          "triggerOtherLegoComponents",
+          "triggerType",
+          "type"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.services.MainFragmentCacheExpServiceImpl",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.services.MainPageFragmentImpl",
+        "methods": [
+          "$init",
+          "LJII",
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL",
+          "LJ",
+          "LJFF",
+          "LJI"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainactivity.PreloadActicityTask",
+        "methods": [
+          "$init",
+          "key",
+          "meetTrigger",
+          "prefix",
+          "run",
+          "scenesType",
+          "serialExecute",
+          "targetProcess",
+          "triggerOtherLegoComponents",
+          "triggerType",
+          "type"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.deeplink.IDeepLinkSecurityService",
+        "methods": [
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainactivity.LocalTestActivityAssem",
+        "methods": [
+          "$init",
+          "LJII",
+          "LJIILIIL"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.inflate.MainFragmentTopRightIconInflate",
+        "methods": [
+          "$init",
+          "LIZ",
+          "key",
+          "meetTrigger",
+          "prefix",
+          "run",
+          "scenesType",
+          "targetProcess",
+          "triggerOtherLegoComponents",
+          "triggerType"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.HomeTabAbility",
+        "methods": [
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainpagefragment.dialog.SafeInfoNoticePopupWindowHelp",
+        "methods": [
+          "$init",
+          "LIZIZ",
+          "LIZ",
+          "getSubscriberEventTypes",
+          "onDiscoverSearchEvent",
+          "onPause",
+          "onResume",
+          "onSafeInfoNoticeEvent",
+          "onShowPolicyNoticeToastEvent",
+          "onStateChanged"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.toolbar.search.SearchIconTipsHelper",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LJFF",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL",
+          "LJ",
+          "onStateChanged",
+          "release"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.security.monitor.jsb.BridgeHook",
+        "methods": [
+          "$init",
+          "hookCallback",
+          "hookParams",
+          "hookReturn",
+          "hookWebCallback",
+          "init"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainfragment.BottomTabProtocol",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL",
+          "LJ",
+          "LJFF",
+          "LJI",
+          "LJII",
+          "LJIIIIZZ"
+        ]
+      },
+      {
+        "name": "com.ss.android.ugc.tiktok.deeplink.impl.DeeplinkPrefetchImpl",
+        "methods": [
+          "$init",
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.tiktok.homepage.mainactivity.PerformanceActivityObserver$LikoInitTask$2",
+        "methods": [
+          "$init",
+          "LIZ"
+        ]
+      }
+    ]
+  }
+]
+
+
+{
+  "name": "com.bytedance.pitaya.bdcomponentimpl.network.TTNetHttpClientImpl",
+  "methods": [
+    "$init",
+    "INVOKEINTERFACE_com_bytedance_pitaya_bdcomponentimpl_network_TTNetHttpClientImpl_com_ss_android_ugc_aweme_lancet_SPLancet_applyProxy",
+    "get",
+    "isNewUser",
+    "post",
+    "postInWorkThread",
+    "setNewUser"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.GiftLockInfo",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.geckox.settings.model.GlobalConfigSettings$CDNFallBackConfig",
+  "methods": [
+    "$init",
+    "getDomains",
+    "getMaxAttempts",
+    "getShuffle"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdkapi.depend.model.live._CoverQuality_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.battle._BattleUserInfoWrapper_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.lighten.loader.SmartImageView",
+  "methods": [
+    "$init",
+    "setController",
+    "LIZ",
+    "LIZIZ",
+    "LIZJ",
+    "getAnimPreviewFrameCacheKey",
+    "getSmartHierarchy",
+    "setActualImageScaleType",
+    "setAnimationListener",
+    "setAttached",
+    "setCircleOptions",
+    "setImageDisplayListener",
+    "setPlaceholderImage",
+    "setUserVisibleHint"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.chatroom.interact.model._PermitResponse_ResponseData_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model._EnvelopePortalMessage_PortalTransTarget_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.LinkerMediaChangeContent",
+  "methods": [
+    "$init",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model._GameTag_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.livesetting.performance.LiveEnableALogSetting",
+  "methods": [
+    "$init",
+    "isDisable",
+    "isEnable",
+    "update"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message._AuthorizationNotifyMessage_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.adminsetting.AdminSettingService",
+  "methods": [
+    "$init",
+    "checkFastAddBlockKeywordsDialog",
+    "getAdminSettingDialog",
+    "getLiveCommentBlockKeywordsFragment",
+    "getLiveCommentSettingFragment",
+    "getMuteConfirmDialog",
+    "getMuteDurationSettingFragment",
+    "onInit",
+    "reportDefaultMuteDurationChange"
+  ]
+},
+{
+  "name": "com.bytedance.vmsdk.monitor.VmSdkMonitor",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ",
+    "getSettings",
+    "monitorEvent"
+  ]
+},
+{
+  "name": "com.bytedance.pumbaa.ruler.adapter.api.IRuleEngineService",
+  "methods": [
+    "LIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.Author",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model._RoomAuthStatus_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.redenvelope._MessageRedEnvelopInfo_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.live_settings.SettingsManager$getValueSafely$1",
+  "methods": [
+    "$init",
+    "getName",
+    "getOwner",
+    "getSignature",
+    "invoke"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message._LinkMicAudienceNoticeMessage_LinkMicAudienceNoticeText_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.livesetting.watchlive.enterroom.RequestAudienceApiAllowList",
+  "methods": [
+    "$init",
+    "getValue"
+  ]
+},
+{
+  "name": "com.bytedance.android.live.liveinteract.multilive.model._ReportLinkMessageReq_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.common._TextPiecePatternRef_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.common._Text_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.live.wallet.IWalletService",
+  "methods": [
+    "createRechargeDialogFragment",
+    "getFirstRechargePayManager",
+    "getIapViewModel",
+    "getLiveWalletJSB",
+    "getPayManager",
+    "handleExceptionForAll",
+    "handleKYCError",
+    "preloadApApi",
+    "showRechargeDialog",
+    "walletCenter",
+    "walletExchange"
+  ]
+},
+{
+  "name": "com.bytedance.netecho.result.DnsResolveResult",
+  "methods": [
+    "$init",
+    "copy$default",
+    "getObjects",
+    "copy",
+    "equals",
+    "getIp",
+    "getSuccess",
+    "getThrowableMsg",
+    "hashCode",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.linker.list_change_message._LinkerListChangeContent_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.linkcore._PermitApplyContent_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.gift.model._GiftCollectionHistoryRequestParams_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.pitaya.api.PTYSetupCallback",
+  "methods": [
+    "onResult"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.ext._TraceInfo_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.tiktok.homepage.mainactivity.PerformanceActivityObserver$LikoInitTask$2",
+  "methods": [
+    "$init",
+    "LIZ"
+  ]
+},
+{
+  "name": "com.bytedance.shadowhook.ShadowHook",
+  "methods": [
+    "$init",
+    "INVOKESTATIC_com_bytedance_shadowhook_ShadowHook_com_ss_android_ugc_aweme_lancet_LoadSoLancet_loadLibrary",
+    "getArch",
+    "getInitCostMs",
+    "getInitErrno",
+    "getRecords",
+    "init",
+    "isInitedOk",
+    "loadLibrary",
+    "nativeGetArch",
+    "nativeGetInitErrno",
+    "nativeGetRecords",
+    "nativeInit",
+    "nativeSetDebuggable",
+    "nativeToErrmsg",
+    "setDebuggable",
+    "toErrmsg"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.chatroom.interact.model.LinkInRoomReplyResponse",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.feed.network.GsonProvider",
+  "methods": [
+    "$init",
+    "LIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.chatroom.interact.model._InitResponse_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.live.usermanage.IUserManageService",
+  "methods": [
+    "configUserHelper",
+    "fetchAdminList",
+    "fetchKickOutList",
+    "fetchMuteDurationList",
+    "fetchMuteList",
+    "getEnsureKickOutDialog",
+    "getMuteDuration",
+    "getReportScene",
+    "hasAdminBlockPermission",
+    "hasAdminMutePermission",
+    "hasAdminPinMessagePermission",
+    "kickOut",
+    "muteUser",
+    "report",
+    "setMuteDuration",
+    "unmuteUser",
+    "updateAdmin"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.gift.model._GiftListResult_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdkapi.depend.model.live.BcToggleInfo",
+  "methods": [
+    "$init",
+    "isAvailable",
+    "isClose",
+    "isOpen"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.livesetting.performance.degrade.ConfigsPreloadOptSetting",
+  "methods": [
+    "$init",
+    "getEnable"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message._BannerInRoomCollection_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.battle.BattleNoticeAnchorGiftGuide",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.gift.model.LiveStreamGoal",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.ies.foundation.base.BaseViewModel",
+  "methods": [
+    "$init",
+    "config",
+    "getConfiguration",
+    "getProcessors",
+    "getSubscribeStore",
+    "init",
+    "initProcessors",
+    "onCleared"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.common.TextPiecePatternRef",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.battle.BattleTaskSettle",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.chatroom.model.EnterRoomExtra",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.pitaya.modules.DTLoader",
+  "methods": [
+    "$init",
+    "load"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdkapi.depend.model.live.CoverInfo",
+  "methods": [
+    "$init",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.provider.impl.ActivityScope$1$1",
+  "methods": [
+    "$init",
+    "onStateChanged"
+  ]
+},
+{
+  "name": "com.bytedance.crash.util.NativeTools",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LJII",
+    "LJIIJ",
+    "doCommonLogPath",
+    "doDumpEnvInfo",
+    "doEnvMonitorInit",
+    "doSetNpthCatchAddr",
+    "nativeAnrDump",
+    "nativeAnrMonitorInit",
+    "nativeAnrMonitorLoop",
+    "nativeCloseFile",
+    "nativeDumpCrashInfo",
+    "nativeDumpLogcat",
+    "nativeDumpPthreadList",
+    "nativeDumpThrowable",
+    "nativeFillNativeHeapSize",
+    "nativeGetBuildID",
+    "nativeGetFDCount",
+    "nativeGetFdListForAPM",
+    "nativeGetMapsSize",
+    "nativeGetOOMReason",
+    "nativeGetPathSize",
+    "nativeGetResendSigquit",
+    "nativeGetSymbolAddress",
+    "nativeGetThreadCpuTimeMills",
+    "nativeGetThreadInfoFromTombStone",
+    "nativeIs64BitLibrary",
+    "nativeLockFile",
+    "nativeOpenFile",
+    "nativePidExists",
+    "nativeSetFdLimit",
+    "nativeSetMallocInfoFunctionAddress",
+    "nativeSetResendSigquit",
+    "nativeTerminateMonitorWait",
+    "nativeToolsInit",
+    "nativeUnlockFile",
+    "nativeUpdateEspInfoFromTombStone",
+    "nativeWriteFile",
+    "onClearExcept",
+    "onFindOneDied",
+    "onProcessBeWorker",
+    "onStartAllClear",
+    "reportEventForAnrMonitor",
+    "LIZIZ",
+    "LIZJ",
+    "LIZLLL",
+    "LJ",
+    "LJFF",
+    "LJI",
+    "LJIIIIZZ",
+    "LJIIIZ",
+    "getSymbolAddress",
+    "setMallocInfoFunc"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattleGameConfig_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.DrawGuessEndMessage",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.android.live.base.model.user._BadgeStruct_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.rank.model.RankEntranceV3Response$EntranceGroup",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.common.PatternRef",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.android.live.base.model.user.BadgeText",
+  "methods": [
+    "$init",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.netecho.result.IcmpDetectResult",
+  "methods": [
+    "$init",
+    "copy$default",
+    "copy",
+    "equals",
+    "getErrorCode",
+    "getErrorStage",
+    "getPacketResults",
+    "getSuccess",
+    "hashCode",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.bdturing.ttnet.TTNetHttpClient",
+  "methods": [
+    "$init",
+    "get",
+    "post"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdkapi.host.IHostSubscription",
+  "methods": [
+    "LIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.livesetting.performance.degrade.AlogAsycSendOptSetting",
+  "methods": [
+    "$init",
+    "getEnable"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.init.SDKServiceInitTask",
+  "methods": [
+    "$init",
+    "isDebug",
+    "lambda$run$0$SDKServiceInitTask",
+    "getTaskName",
+    "run"
+  ]
+},
+{
+  "name": "com.bytedance.crash.NpthCore$5",
+  "methods": [
+    "$init",
+    "getFdList"
+  ]
+},
+{
+  "name": "com.bytedance.geckox.model.CleanPolicyModel",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message._MarqueeAnnouncementMessage_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.ext.EcTaskRefreshCouponListMessage",
+  "methods": [
+    "$init",
+    "getIntType"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.chatroom.model.interact.LinkPlayerInfo",
+  "methods": [
+    "$init",
+    "equals",
+    "hashCode",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.AuthorizationNotifyMessage$ContentBlock",
+  "methods": [
+    "$init",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.globalpayment.iap.model.IapPaymentMethod",
+  "methods": [
+    "$init",
+    "valueOf",
+    "values"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.gift.model.CollectionUser",
+  "methods": [
+    "$init",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.router.RouteMapper",
+  "methods": [
+    "$init",
+    "getTargetClassFromUri",
+    "initDynamicRoutes",
+    "initRouteMap",
+    "getExternalRouteMap",
+    "getInterceptorList",
+    "getRouteMap",
+    "getServerParam",
+    "getTargetClass",
+    "getTestUrlList",
+    "init",
+    "installModuleMapping",
+    "loadLocalRouteConfig",
+    "loadModuleMapping",
+    "requestRouteConfig",
+    "setCustomInitializer",
+    "updateMapping",
+    "updateNetRouteConfig"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.chatroom.model.multiguestv3._BizReplyParams_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.battle.BattleNoticeToast",
+  "methods": [
+    "$init",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.ies.android.base.runtime.depend.IPermissionDepend",
+  "methods": [
+    "requestPermission"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.DonationInfoMessage",
+  "methods": [
+    "$init",
+    "canText",
+    "supportDisplayText"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message._LinkMicAudienceNoticeMessage_LinkMicAudienceTurnOnGuide_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.keva.KevaMultiProcessImpl",
+  "methods": [
+    "$init",
+    "buildNewMap",
+    "clear",
+    "contains",
+    "count",
+    "dump",
+    "dumpNative",
+    "erase",
+    "fetchBoolean",
+    "fetchBytes",
+    "fetchDouble",
+    "fetchFloat",
+    "fetchInt",
+    "fetchLong",
+    "fetchString",
+    "fetchStringArray",
+    "getAll",
+    "getBoolean",
+    "getBytes",
+    "getBytesJustDisk",
+    "getDouble",
+    "getFloat",
+    "getInt",
+    "getLong",
+    "getString",
+    "getStringArray",
+    "getStringArrayJustDisk",
+    "getStringJustDisk",
+    "getStringSet",
+    "getStringSetJustDisk",
+    "name",
+    "registerChangeListener",
+    "storeBoolean",
+    "storeBytes",
+    "storeBytesJustDisk",
+    "storeDouble",
+    "storeFloat",
+    "storeInt",
+    "storeLong",
+    "storeString",
+    "storeStringArray",
+    "storeStringArrayJustDisk",
+    "storeStringJustDisk",
+    "storeStringSet",
+    "storeStringSetJustDisk",
+    "unRegisterChangeListener"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdkapi.depend.model.live.CommerceStruct",
+  "methods": [
+    "$init",
+    "getCommercePermission",
+    "getOecInitDataString",
+    "setCommercePermission",
+    "setOecInitDataString",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.retrofit2.SsHttpCall$1",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ",
+    "LIZJ",
+    "run"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.wallet._GetPipoUrlParams_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.livesetting.hybrid.LiveOptimizeHybridInitSetting",
+  "methods": [
+    "$init",
+    "getValue"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.WarningTag",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.android.live.network.gson.ListResponseTypeAdapter",
+  "methods": [
+    "$init",
+    "LIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.ext.TraceInfo",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.apm.agent.instrumentation.OkHttp3Instrumentation",
+  "methods": [
+    "$init",
+    "build",
+    "init"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.subscribe.model._SubDataItemView_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.live.liveinteract.multilive.model.GetSharedInviteePanelParamsResponse",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.ies.xbridge.base.runtime.depend.IHostPermissionDepend",
+  "methods": [
+    "hasPermission",
+    "requestPermission"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.linker.reply_message.LinkerReplyContent",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.frameworks.baselib.network.http.cronet.ICronetClient$ICronetBootFailureChecker",
+  "methods": [
+    "isCronetBootFailureExpected"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.linkcore.DSLConfig",
+  "methods": [
+    "$init",
+    "getObjects"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.UnauthorizedMemberMessage",
+  "methods": [
+    "$init",
+    "canText"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.gift.model._CollectionDescription_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.GiftMessage",
+  "methods": [
+    "$init",
+    "canText",
+    "supportDisplayText",
+    "toString"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.livesetting.broadcast.LiveLogPoolSizeSetting",
+  "methods": [
+    "$init",
+    "getValue"
+  ]
+},
+{
+  "name": "com.bytedance.ies.ugc.aweme.network.IRetrofitFactory",
+  "methods": [
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.chatroom.model.multiguestv3.BizApplyParams",
+  "methods": [
+    "$init",
+    "getObjects"
+  ]
+},
+{
+  "name": "com.bytedance.framwork.core.sdkmonitor.SDKMonitorUtils",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdkapi.depend.model.live.AgeRestricted",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.helios.sdk.appops.AppOpsService",
+  "methods": [
+    "$init",
+    "init",
+    "onNewSettings",
+    "setAppLog",
+    "setEventMonitor",
+    "setExceptionMonitor",
+    "setLogger",
+    "setRuleEngine",
+    "setStore",
+    "start",
+    "stop"
+  ]
+},
+{
+  "name": "com.bytedance.services.apm.api.ILaunchTrace",
+  "methods": [
+    "cancelTrace",
+    "endSpan",
+    "endTrace",
+    "startSpan",
+    "startTrace"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.BannerInRoomCollection$BannerInfo",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.router.RouterConstant",
+  "methods": [
+    "$init"
+  ]
+},
+{
+  "name": "com.bytedance.geckox.GeckoGlobalConfig$IMonitorConfig",
+  "methods": [
+    "getChannel",
+    "getCommonParams",
+    "getMonitorHost",
+    "getPackageId",
+    "getUpdateVersionCode",
+    "isOversea"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message._LinkMessage_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.model.message.linkcore._UserPosition_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.keva.KevaFuture$2",
+  "methods": [
+    "$init",
+    "call"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.gift.assets._VideoResource_ProtoDecoder",
+  "methods": [
+    "$init",
+    "LIZ",
+    "LIZIZ"
+  ]
+},
+{
+  "name": "com.bytedance.pitaya.api.feature.FeatureCoreFactory",
+  "methods": [
+    "$init",
+    "getCores",
+    "getFeatureCore",
+    "getFeatureStore"
+  ]
+},
+{
+  "name": "com.bytedance.android.livesdk.init.FeedDelayInitTask",
+  "methods": [
+    "$init",
+    "lambda$run$0$FeedDelayInitTask",
+    "getTaskName",
+    "run"
+  ]
+}
+
+
+
+

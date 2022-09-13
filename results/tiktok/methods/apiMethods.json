@@ -1,0 +1,1082 @@
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.ShortTouchInfo",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.ping.PingResult",
+        "methods": [
+          "$init",
+          "getMosaicStatus",
+          "getNextPingInterval",
+          "getRoomId",
+          "getRoomStatus"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.message.CommonMessageData",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._RoomLinkInfo_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._LiveFilterMsgRule_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.host.IHostLog",
+        "methods": [
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._PreviewPeriod_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.message._ProtoMessageFetchResult_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.api.revenue.subscription.ISubscribeService",
+        "methods": [
+          "createSubscriptionWidget",
+          "getEmotesCommentController",
+          "getPreviewSubscriptionSettingDialog",
+          "getSubscribeEntranceHelper",
+          "getSubscribeInfoListFragment",
+          "getSubscribeSettingFragment",
+          "onPreviewSubscribeWidgetIconHide",
+          "onPreviewSubscribeWidgetIconShow",
+          "openLiveRoomSubscribeLynx",
+          "openUserSubscribeBySchema",
+          "openUserSubscribeEntry",
+          "openUserSubscribeState",
+          "sendSubscribeGuideIfNeed",
+          "updateAudienceSubscribeStatus"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.feed.tab.api.FeedTabApi",
+        "methods": [
+          "queryTab"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.DeprecatedStruct5",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.DeprecatedStruct6",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.message._ImEnterRoom_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.livesdk.api.base.ILiveImageMonitorService",
+        "methods": [
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.BattleBonusConfig",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.bubble.BubbleSettingData",
+        "methods": [
+          "$init",
+          "INVOKESTATIC_com_bytedance_android_livesdkapi_depend_model_live_bubble_BubbleSettingData_com_ss_android_ugc_aweme_lancet_HashCodeLancet_hashCode",
+          "copy$default",
+          "copy",
+          "getCacheInterval",
+          "getObjects",
+          "getShowInterval",
+          "getStayInterval",
+          "setCacheInterval",
+          "setShowInterval",
+          "setStayInterval"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.RoomPrivateInfo",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.host.IHostShare",
+        "methods": [
+          "getBreathShareAnimShareRes",
+          "getBundleKey",
+          "getLongPressShareDialog",
+          "getShareDialog",
+          "getShortUrl",
+          "getUrlModelAndShowAnim",
+          "isImChannel",
+          "isShareAvailable",
+          "share",
+          "shareSingleMessage",
+          "shareStreamGoal",
+          "shareSubInvitation",
+          "showReportDialog"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._ContinueRoomResponse_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.chatroom.api.LevelBadge",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.message.LiveMessageID",
+        "methods": [
+          "$init",
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.api.PitayaCoreFactory",
+        "methods": [
+          "$init",
+          "getCore",
+          "getProvider"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._DeprecatedStruct6_DeprecatedStruct7_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._MultiBattleFinishResponse_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.chatroom.api.OriginBadgeInfo",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._RoomShortTouchAreaConfig_Element_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.StreamUrlExtra$SrConfig",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.chatroom.api._SubBenefit_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.services.apm.api.IActivityLifeManager",
+        "methods": [
+          "isForeground",
+          "register",
+          "unregister"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._LiveCoreSDKData_PullData_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.BattleLinkerInviteMessageExtra$InviterRivalExtra",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._PictionaryStatistics_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._LineupRoomInfo_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.feed.api.ILiveFeedApiService",
+        "methods": [
+          "createDrawerFeedFragment",
+          "createDrawerFeedFragmentV2",
+          "delayInit",
+          "getFeedTab",
+          "getFeedTabForyouPage",
+          "getMinimizeManager",
+          "getStartLiveRoomInterceptor",
+          "init",
+          "recordNeedRetryTabApi",
+          "requestTabInNetWorkState",
+          "requestTabListForyouPage"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.api.bean.PTYError",
+        "methods": [
+          "$init",
+          "copy$default",
+          "copy",
+          "getCode",
+          "getDomain",
+          "getObjects",
+          "getStacks",
+          "getSubCode",
+          "getSummary"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.chatroom.api._LevelBadge_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.BattleStatsMeta",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.services.apm.api.IHttpService",
+        "methods": [
+          "buildMultipartUpload",
+          "doGet",
+          "doPost",
+          "uploadFiles"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._RoomHealthScoreInfo_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.BattleTaskGiftAmountGuide",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._PaidEvent_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.RoomTab",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.api.PitayaHostDefault$hostSetup$registeCallback$1",
+        "methods": [
+          "$init",
+          "onResult"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.ping._PingResult_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.api.PitayaFE",
+        "methods": [
+          "registerApplogRunEventCallback",
+          "registerMessageHandler",
+          "removeApplogRunEventCallback",
+          "removeMessageHandler"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.comp.api.game.service.IGameService",
+        "methods": [
+          "cacheSaveToDraftFragmentId",
+          "createGameAutoCoverMarkWidget",
+          "createGameAutoCoverWidget",
+          "createGameBroadcastFragment",
+          "createGameLiveBroadcastPreviewAutoSpeedDetectorHelper",
+          "createGameLiveInterruptionGuideWidget",
+          "createMirrorCastFragment",
+          "createSpeedDetectionDialog",
+          "downloadVideoAndJumpShortVideoEditPage",
+          "getLiveGameConfig",
+          "getPreviewHighLightWidgetClass",
+          "getPreviewNewGameBroadcastEducationBannerWidgetClass",
+          "getPreviewScreenShareHintWidgetClass",
+          "mirrorCast",
+          "saveToDraft"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.monitor.adapter.api.IMonitorService",
+        "methods": [
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.host.IHostWallet",
+        "methods": [
+          "getBillingClient",
+          "getHostWalletSetting"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattleBaseUserInfo_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._FYPRoomTagItem_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._PictionaryFullInfo_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.FYPRoomTagItem",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.BattleGameConfig",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._RoomUserAttr_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._ChijiHistory_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.LiveCoreSDKData$PullData",
+        "methods": [
+          "$init",
+          "getOptions",
+          "getStreamData",
+          "setOptions",
+          "setStreamData"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattleTask_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.BattleMode",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.ies.im.core.api.proxy.IIMCoreProxyService",
+        "methods": [
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live.wallet.api.IapApi",
+        "methods": [
+          "checkOrderResult",
+          "checkSubOrder",
+          "createAmazonOrder",
+          "createOrder",
+          "exchangeCoins",
+          "fetchDiamondPackage",
+          "getBalanceInfo",
+          "getExchangeRatio",
+          "getNotifications",
+          "getTaxInfo",
+          "getUgEmailConsent",
+          "getWalletInfoNew",
+          "subscribeOrder",
+          "syncFirstRechargeInfo",
+          "updateAutoExchange"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.comp.api.image.IImageService",
+        "methods": [
+          "getImageLoader"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.report._ReportCommitData_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.chatroom.api.SubBenefit",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.host.IHostWebView",
+        "methods": [
+          "LIZ",
+          "LIZIZ",
+          "LIZJ",
+          "LIZLLL"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.host.IHostNetwork",
+        "methods": [
+          "downloadFile",
+          "get",
+          "getCommonParams",
+          "getHostDomain",
+          "getHostRetrofit",
+          "getHostWebSocketDomain",
+          "getLiveRetrofit",
+          "getVersionCode",
+          "minorModeInterceptMonitor",
+          "post",
+          "registerWsChannel",
+          "uploadFile"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.BALinkStruct",
+        "methods": [
+          "$init",
+          "getBaLinkData",
+          "getBaLinkPermission",
+          "setBaLinkData",
+          "setBaLinkPermission",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._StreamUrlExtra_SrConfig_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattleScore_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattleBonusStatus_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.FilterMsgRuleParamRandom",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._LiveCoreSDKData_Options_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live.publicscreen.api.IPublicScreenService",
+        "methods": [
+          "addOnRegistryReadyListener",
+          "clearMockChatMessage",
+          "convert",
+          "createGameMessageView",
+          "enter",
+          "getCurrentBottomMessage",
+          "getExtendedPublicScreenWidget",
+          "getExtendedScreenMultiFilterWidget",
+          "getExtendedScreenRadioFilterWidget",
+          "getGiftHistoryManager",
+          "getGiftHistoryWidgetHelper",
+          "getHotDuration",
+          "getNewMessageListener",
+          "getOnRegistryReadyListeners",
+          "getPublicScreenWidgetClass",
+          "getStartStreamingTimestamp",
+          "getTextMessageConfig",
+          "hideWarningMessage",
+          "insertBottomMessage",
+          "insertMessage",
+          "leave",
+          "mockChatMessage",
+          "onPlayFragmentCreate",
+          "onStartStreaming",
+          "onStopStreaming",
+          "pin",
+          "preloadBroadcastLayout",
+          "removeModelByToken",
+          "resetDuration",
+          "textDropShadow",
+          "updateGameMessageLikeCount",
+          "updateGameMessageViewUserCount",
+          "updateMessage",
+          "updateModel"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.ChijiResult",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.ShortTouchArea",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattleInfoResponse_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._OfficialRoomInfo_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.host.IHostRuntimeBehaviorService",
+        "methods": [
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.OfficialRoomInfo",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattleArmy_RankUser_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.api.PTYSettingsCallback",
+        "methods": [
+          "getSettings"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.TaskPeriodConfig",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattlePrompt_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.RoomShortTouchAreaConfig",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.api.feature.IFeatureCore",
+        "methods": [
+          "createKVStore",
+          "getAid"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.ScheduleItem",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.chatroom.api._SubLevel_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.bubble.BubbleSettingExtra",
+        "methods": [
+          "$init",
+          "copy$default",
+          "getObjects",
+          "copy",
+          "equals",
+          "getLogPb",
+          "hashCode",
+          "setLogPb",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.comp.api.debug.IDebugService",
+        "methods": [
+          "getInvokeAllPublicScreenListeners",
+          "initPublicScreenService",
+          "newFloatDebugTools",
+          "registerDebugJsb"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.message._CommonMessageData_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._EnterRegionMatch_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.message.ImEnterRoom",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._CommerceStruct_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.RoomShortTouchAreaConfig$Element",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._AgeRestricted_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.inner.api.bean.SetupInfo",
+        "methods": [
+          "$init",
+          "INVOKEVIRTUAL_com_bytedance_pitaya_inner_api_bean_SetupInfo_com_ss_android_ugc_aweme_lancet_ContextLancet_getFilesDir",
+          "getConfigVMNum",
+          "getLimitedPyConcurrency",
+          "getVMNum",
+          "bind",
+          "getAid",
+          "getAppVersion",
+          "getAuthURLHost",
+          "getAutoRequestUpdate",
+          "getChannel",
+          "getDevice",
+          "getDid",
+          "getDownloadConcurrency",
+          "getFilterMap",
+          "getFlEnable",
+          "getOsVersion",
+          "getPluginVersion",
+          "getPyConcurrency",
+          "getRootPath",
+          "getSdkBuildVersion",
+          "getSettings",
+          "getUid",
+          "getUrlHost",
+          "getUserProfileDevURL",
+          "isDebugMode",
+          "isTraceEnable"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.chatroom.api.SubLevel",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattleMode_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattleUserInfo_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._TaskPeriodConfig_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.message.ProtoMessageFetchResult$BaseProtoMessage",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.PinInfo",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.chatroom.api._GraceInfo_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattlePromptElem_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._ShortTouchInfo_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZ",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.RoomHealthScoreInfo",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.MultiInviteResponse",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match.IssueCategory",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live._CoverQuality_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.pumbaa.ruler.adapter.api.IRuleEngineService",
+        "methods": [
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.api.PTYSetupCallback",
+        "methods": [
+          "onResult"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.BcToggleInfo",
+        "methods": [
+          "$init",
+          "isAvailable",
+          "isClose",
+          "isOpen"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.CoverInfo",
+        "methods": [
+          "$init",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.match._BattleGameConfig_ProtoDecoder",
+        "methods": [
+          "$init",
+          "LIZIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.host.IHostSubscription",
+        "methods": [
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.CommerceStruct",
+        "methods": [
+          "$init",
+          "getCommercePermission",
+          "getOecInitDataString",
+          "setCommercePermission",
+          "setOecInitDataString",
+          "toString"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.AgeRestricted",
+        "methods": [
+          "$init"
+        ]
+      },
+      {
+        "name": "com.bytedance.services.apm.api.ILaunchTrace",
+        "methods": [
+          "cancelTrace",
+          "endSpan",
+          "endTrace",
+          "startSpan",
+          "startTrace"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.api.feature.FeatureCoreFactory",
+        "methods": [
+          "$init",
+          "getCores",
+          "getFeatureCore",
+          "getFeatureStore"
+        ]
+      }
+
+
+      Enumerating methods...
+      [
+        {
+          "loader": null,
+          "classes": [
+            {
+              "name": "com.android.internal.os.ZygoteConnection",
+              "methods": [
+                "handleHiddenApiAccessLogSampleRate",
+                "lambda$handleHiddenApiAccessLogSampleRate$1"
+              ]
+            },
+            {
+              "name": "com.android.internal.os.StatsdHiddenApiUsageLogger",
+              "methods": [
+                "setHiddenApiAccessLogSampleRates"
+              ]
+            },
+            {
+              "name": "com.android.internal.os.ZygoteInit",
+              "methods": [
+                "setHiddenApiAccessLogSampleRate",
+                "setHiddenApiUsageLogger"
+              ]
+            },
+            {
+              "name": "android.os.ZygoteProcess",
+              "methods": [
+                "maybeSetHiddenApiAccessLogSampleRate",
+                "setHiddenApiAccessLogSampleRate"
+              ]
+            },
+            {
+              "name": "dalvik.system.VMRuntime",
+              "methods": [
+                "setHiddenApiUsageLogger",
+                "setHiddenApiAccessLogSamplingRate"
+              ]
+            }
+          ]
+        },
+        {
+          "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+          "classes": [
+            {
+              "name": "com.ss.android.ugc.aweme.ecommerce.service.IECommerceService",
+              "methods": [
+                "reportVerticalSearchApiLog"
+              ]
+            },
+            {
+              "name": "$Proxy108",
+              "methods": [
+                "roid.ugc.aweme.setting.serverpush.api.PushSettingsApiManager$PushUserSettingsApi.setUserSettingsForLogout"
+              ]
+            },
+            {
+              "name": "com.ss.android.ugc.aweme.ecommerce.ECommerceService",
+              "methods": [
+                "reportVerticalSearchApiLog"
+              ]
+            }
+          ]
+        }
+      ]
+      

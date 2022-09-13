@@ -1,0 +1,214 @@
+Enumerating methods...
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.globalpayment.service.manager.ecommerce.ECommerceService",
+        "methods": [
+          "encryptWithRsa"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.bdcomponentimpl.sword.SWordEncryptImpl",
+        "methods": [
+          "INVOKESTATIC_com_bytedance_pitaya_bdcomponentimpl_sword_SWordEncryptImpl_com_ss_android_ugc_aweme_lancet_LoadSoLancet_loadLibrary",
+          "decrypt"
+        ]
+      },
+      {
+        "name": "com.bytedance.frameworks.encryptor.EncryptorUtil",
+        "methods": [
+          "ttEncrypt"
+        ]
+      },
+      {
+        "name": "com.bytedance.crash.runtime.ConfigManager",
+        "methods": [
+          "getEncryptImpl",
+          "setEncryptImpl"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.thirdcomponent.encrypt.ClientEncrypt",
+        "methods": [
+          "decrypt"
+        ]
+      },
+      {
+        "name": "com.bytedance.crash.Npth",
+        "methods": [
+          "setEncryptImpl"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.client.Request",
+        "methods": [
+          "isBodyEncryptEnabled",
+          "isQueryEncryptEnabled",
+          "setBodyEncryptEnabled",
+          "setQueryEncryptEnabled"
+        ]
+      },
+      {
+        "name": "com.bytedance.globalpayment.service.manager.ecommerce.ECommerceExternalServiceImplOfMock",
+        "methods": [
+          "encryptWithRsa"
+        ]
+      }
+    ]
+  }
+]
+
+
+Enumerating methods...
+[
+  {
+    "loader": null,
+    "classes": [
+      {
+        "name": "com.android.internal.telephony.uicc.PinStorage",
+        "methods": [
+          "encrypt"
+        ]
+      },
+      {
+        "name": "android.internal.telephony.sysprop.VoldProperties",
+        "methods": [
+          "encrypt_progress",
+          "encrypt_time_remaining"
+        ]
+      },
+      {
+        "name": "android.os.storage.IStorageManager$Stub$Proxy",
+        "methods": [
+          "encryptStorage"
+        ]
+      },
+      {
+        "name": "android.os.storage.IStorageManager",
+        "methods": [
+          "encryptStorage"
+        ]
+      },
+      {
+        "name": "android.sysprop.VoldProperties",
+        "methods": [
+          "encrypt_progress",
+          "encrypt_time_remaining"
+        ]
+      },
+      {
+        "name": "android.os.IVold$Stub$Proxy",
+        "methods": [
+          "encryptFstab"
+        ]
+      },
+      {
+        "name": "android.media.MediaDrm$CryptoSession",
+        "methods": [
+          "encrypt"
+        ]
+      },
+      {
+        "name": "android.os.IVold",
+        "methods": [
+          "encryptFstab"
+        ]
+      },
+      {
+        "name": "android.media.MediaDrm",
+        "methods": [
+          "encryptNative"
+        ]
+      },
+      {
+        "name": "com.android.org.bouncycastle.crypto.engines.AESEngine",
+        "methods": [
+          "encryptBlock"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.message.IkeMessage$IIkeMessageHelper",
+        "methods": [
+          "encryptAndEncode"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.message.IkeSkPayload",
+        "methods": [
+          "getUnencryptedData"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.message.IkeMessage$IkeMessageHelper",
+        "methods": [
+          "encryptAndEncode"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.crypto.IkeCombinedModeCipher",
+        "methods": [
+          "encrypt"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.crypto.IkeNormalModeCipher",
+        "methods": [
+          "encrypt"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.message.IkeMessage",
+        "methods": [
+          "encryptAndEncode"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.crypto.AesXCbcImpl",
+        "methods": [
+          "encryptAesBlock"
+        ]
+      },
+      {
+        "name": "com.android.org.conscrypt.NativeCrypto",
+        "methods": [
+          "EVP_PKEY_encrypt",
+          "EVP_PKEY_encrypt_init",
+          "RSA_private_encrypt",
+          "RSA_public_encrypt",
+          "chacha20_encrypt_decrypt"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.message.IkeEncryptedPayloadBody",
+        "methods": [
+          "getUnencryptedData"
+        ]
+      }
+    ]
+  },
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.globalpayment.service.manager.ecommerce.ECommerceService",
+        "methods": [
+          "encryptWithRsa"
+        ]
+      },
+      {
+        "name": "com.ss.ttm.ttvideodecode.Native",
+        "methods": [
+          "_encryptAesCbc128"
+        ]
+      },
+      {
+        "name": "com.bytedance.globalpayment.service.manager.ecommerce.ECommerceExternalServiceImplOfMock",
+        "methods": [
+          "encryptWithRsa"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,225 @@
+Enumerating methods...
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.retrofit2.SsHttpCall",
+        "methods": [
+          "cancelNormalRequest",
+          "getRequestInfo",
+          "reportRequestError",
+          "reportRequestOk"
+        ]
+      },
+      {
+        "name": "com.bytedance.apm.net.DefaultHttpServiceImpl",
+        "methods": [
+          "doRequest"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.CallServerInterceptor",
+        "methods": [
+          "cancelNormalRequest",
+          "getRequestInfo"
+        ]
+      },
+      {
+        "name": "com.bytedance.crash.Npth",
+        "methods": [
+          "setRequestIntercept"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.chatroom.interact.model.RivalsListExtra",
+        "methods": [
+          "getRequestId"
+        ]
+      },
+      {
+        "name": "com.bytedance.frameworks.baselib.network.http.cronet.ICronetAppProvider",
+        "methods": [
+          "getHttpDnsRequestFlags",
+          "getTNCRequestFlags",
+          "getTNCRequestHeader",
+          "getTNCRequestQuery"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.live.base.model.user.User",
+        "methods": [
+          "getRequestId",
+          "setRequestId"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.api.bean.PTYSetupInfo",
+        "methods": [
+          "getAutoRequestUpdate"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.mime.TypedByteArray",
+        "methods": [
+          "interceptRequestBody"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdkapi.depend.model.live.Room",
+        "methods": [
+          "getRequestId",
+          "setRequestId"
+        ]
+      },
+      {
+        "name": "com.bytedance.android.livesdk.chatroom.api.RoomRetrofitApi",
+        "methods": [
+          "collectUnreadRequest"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.RequestBuilder$MimeOverridingTypedOutput",
+        "methods": [
+          "interceptRequestBody"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.client.Request",
+        "methods": [
+          "getRequestBody",
+          "getRequestPriorityLevel"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.jniwrapper.PitayaNativeInstance",
+        "methods": [
+          "nativeRequestUpdate",
+          "nativeRequestUpdateAll"
+        ]
+      },
+      {
+        "name": "com.bytedance.frameworks.baselib.network.http.cronet.ICronetClient",
+        "methods": [
+          "getRequestMetrics"
+        ]
+      },
+      {
+        "name": "com.bytedance.geckox.OptionCheckUpdateParams",
+        "methods": [
+          "getInnerRequestByUser",
+          "setInnerRequestByUser"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.mime.AbsTypedOutput",
+        "methods": [
+          "interceptRequestBody"
+        ]
+      },
+      {
+        "name": "com.bytedance.ttnet.TTNetInit",
+        "methods": [
+          "getMappingRequestState",
+          "setFirstRequestWaitTime"
+        ]
+      },
+      {
+        "name": "com.bytedance.geckox.model.CheckRequestBodyModel",
+        "methods": [
+          "setRequestMeta"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.mime.FormUrlEncodedTypedOutput",
+        "methods": [
+          "interceptRequestBody"
+        ]
+      },
+      {
+        "name": "com.bytedance.pitaya.inner.api.bean.SetupInfo",
+        "methods": [
+          "getAutoRequestUpdate"
+        ]
+      },
+      {
+        "name": "com.bytedance.geckox.GeckoGlobalConfig",
+        "methods": [
+          "getRequestTagHeaderProvider"
+        ]
+      }
+    ]
+  }
+]
+
+Enumerating methods...
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.bytedance.retrofit2.RequestBuilder$MimeOverridingTypedOutput",
+        "methods": [
+          "$init",
+          "fileName",
+          "interceptRequestBody",
+          "length",
+          "md5Stub",
+          "mimeType",
+          "writeTo"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.client.Request",
+        "methods": [
+          "$init",
+          "createUriWithOutQuery",
+          "safeCreateUri",
+          "getBody",
+          "getExtraInfo",
+          "getFirstHeader",
+          "getHeaders",
+          "getHost",
+          "getMaxLength",
+          "getMethod",
+          "getMetrics",
+          "getPath",
+          "getPriorityLevel",
+          "getQueryFilterPriority",
+          "getRequestBody",
+          "getRequestPriorityLevel",
+          "getServiceType",
+          "getUrl",
+          "headers",
+          "isAddCommonParam",
+          "isBodyEncryptEnabled",
+          "isQueryEncryptEnabled",
+          "isResponseStreaming",
+          "newBuilder",
+          "setBodyEncryptEnabled",
+          "setExtraInfo",
+          "setMetrics",
+          "setQueryEncryptEnabled",
+          "setQueryFilterPriority",
+          "tag"
+        ]
+      },
+      {
+        "name": "com.bytedance.retrofit2.RequestBuilder",
+        "methods": [
+          "$init",
+          "LIZIZ",
+          "LIZ"
+        ]
+      },
+      {
+        "name": "com.bytedance.frameworks.baselib.network.http.retrofit.RequestVertifyInterceptor",
+        "methods": [
+          "$init",
+          "LIZ",
+          "intercept"
+        ]
+      }
+    ]
+  }
+]
