@@ -1,0 +1,109 @@
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "X.0zl",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.0zm",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.0zv",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.100",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.101",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.10D",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.10E",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.10F",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.10P",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.10Q",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.12G",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.12H",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.12f",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.12i",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.12s",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.12x",
+        "methods": [
+          "startRequest"
+        ]
+      },
+      {
+        "name": "X.12z",
+        "methods": [
+          "startRequest"
+        ]
+      }
+    ]
+  }
+]

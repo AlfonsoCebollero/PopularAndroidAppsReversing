@@ -8,12 +8,22 @@ if(Java.available){
     Java.perform(function(){
         try {
             console.log("Grabbing params...")
-            var target = Java.use("X.3V9")
-            target.LIZ
-            .overload('[B').implementation = function(a) {
-                console.log("A " + bin2String(a))
-
+            var target = Java.use("X.0cg")
+            target.A00
+            .overload('X.0cg', 'java.lang.Object', 'java.lang.String').implementation = function(a, b, c) {
+                if (String(a).includes("logging")) {
+                    console.log("-------------------")
+                    console.log("A" + a)
+                    console.log("-------------------")
+                    console.log(b)
+                    console.log("-------------------")
+                    console.log(c)
+                    console.log("-------------------")
+                } else {
+                    return 500
+                }
             };
+            
 
             console.log("Done")
         }

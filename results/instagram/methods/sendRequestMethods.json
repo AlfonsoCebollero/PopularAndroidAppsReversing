@@ -1,0 +1,182 @@
+Enumerating methods...
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.facebook.tigon.TigonXplatService",
+        "methods": [
+          "sendRequestBodyBufferIntegerBuffer",
+          "sendRequestIntegerBuffer",
+          "sendRequest"
+        ]
+      },
+      {
+        "name": "com.facebook.proxygen.utils.RequestDefragmentingOutputStream$HandlerInterface",
+        "methods": [
+          "sendRequestWithBodyAndEom"
+        ]
+      },
+      {
+        "name": "com.facebook.proxygen.HTTPRequestHandler$HandlerInterface",
+        "methods": [
+          "sendRequestWithBodyAndEom"
+        ]
+      },
+      {
+        "name": "com.facebook.proxygen.JniHandler",
+        "methods": [
+          "sendRequestWithBodyAndEOMNative",
+          "sendRequestWithBodyAndEom"
+        ]
+      },
+      {
+        "name": "com.facebook.proxygen.HTTPRequestHandler",
+        "methods": [
+          "sendRequestBody"
+        ]
+      }
+    ]
+  },
+  {
+    "loader": null,
+    "classes": [
+      {
+        "name": "com.android.ims.rcs.uce.request.UceRequestManager",
+        "methods": [
+          "sendRequestInternal"
+        ]
+      },
+      {
+        "name": "com.android.ims.rcs.uce.presence.publish.PublishControllerImpl$PublishHandler",
+        "methods": [
+          "sendRequestCanceledTimerMessage",
+          "sendRequestCommandErrorMessage",
+          "sendRequestNetworkRespMessage"
+        ]
+      },
+      {
+        "name": "com.android.ims.rcs.uce.request.UceRequestManager$UceRequestHandler",
+        "methods": [
+          "sendRequestCoordinatorFinishedMessage",
+          "sendRequestFinishedMessage",
+          "sendRequestMessage",
+          "sendRequestTimeoutTimerMessage",
+          "sendRequestUpdatedMessage"
+        ]
+      },
+      {
+        "name": "gov.nist.javax.sip.SipProviderImpl",
+        "methods": [
+          "sendRequest"
+        ]
+      },
+      {
+        "name": "javax.sip.Dialog",
+        "methods": [
+          "sendRequest"
+        ]
+      },
+      {
+        "name": "gov.nist.javax.sip.stack.SIPDialog",
+        "methods": [
+          "sendRequest"
+        ]
+      },
+      {
+        "name": "javax.sip.ClientTransaction",
+        "methods": [
+          "sendRequest"
+        ]
+      },
+      {
+        "name": "javax.sip.SipProvider",
+        "methods": [
+          "sendRequest"
+        ]
+      },
+      {
+        "name": "gov.nist.javax.sip.stack.SIPClientTransaction",
+        "methods": [
+          "sendRequest"
+        ]
+      },
+      {
+        "name": "gov.nist.javax.sip.DialogFilter",
+        "methods": [
+          "sendRequestPendingResponse"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.uicc.euicc.async.AsyncMessageInvocation",
+        "methods": [
+          "sendRequestMessage"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.uicc.euicc.apdu.TransmitApduLogicalChannelInvocation",
+        "methods": [
+          "sendRequestMessage"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.deprecated.V1_0.IOemHookResponse$Proxy",
+        "methods": [
+          "sendRequestRawResponse",
+          "sendRequestStringsResponse"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.deprecated.V1_0.IOemHook$Proxy",
+        "methods": [
+          "sendRequestRaw",
+          "sendRequestStrings"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.deprecated.V1_0.IOemHookResponse",
+        "methods": [
+          "sendRequestRawResponse",
+          "sendRequestStringsResponse"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.uicc.euicc.apdu.OpenLogicalChannelInvocation",
+        "methods": [
+          "sendRequestMessage"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.uicc.euicc.apdu.CloseLogicalChannelInvocation",
+        "methods": [
+          "sendRequestMessage"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.deprecated.V1_0.IOemHook",
+        "methods": [
+          "sendRequestRaw",
+          "sendRequestStrings"
+        ]
+      },
+      {
+        "name": "com.android.okhttp.internal.http.HttpEngine",
+        "methods": [
+          "sendRequest"
+        ]
+      },
+      {
+        "name": "android.net.ConnectivityManager",
+        "methods": [
+          "sendRequestForNetwork"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.IkeSessionStateMachine$CreateIkeLocalIkeInit",
+        "methods": [
+          "sendRequest"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="debug_allow_user_certs_ttl">1557909551442:86400000</string>
+    <boolean name="debug_allow_user_certs" value="true" />
+    <boolean name="debug_disable_liger_fizz" value="true" />
+</map>

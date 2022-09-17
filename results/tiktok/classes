@@ -23,8 +23,6 @@ com.bytedance.tiktok.homepage.mainactivity.PerformanceActivityObserver$LikoInitT
 com.bytedance.tiktok.homepage.mainactivity.LegacyPlayerActivityAssem
 com.bytedance.tiktok.homepage.mainpagefragment.notification.NotificationCountViewManager
 com.bytedance.tiktok.homepage.mainfragment.inflate.MainFragmentTopLeftIconInflate
-
-
 stv3.BizJoinChannelResponseData
 com.bytedance.router.route.BaseRoute
 com.bytedance.android.livesdk.model.message.DrawGuessUpdateMessage

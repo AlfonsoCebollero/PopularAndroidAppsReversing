@@ -1,0 +1,1 @@
+ 14068 ms  0cg.A00("<instance: X.0cg>", "<instance: java.lang.Object, $className: java.lang.String>", "log_type")

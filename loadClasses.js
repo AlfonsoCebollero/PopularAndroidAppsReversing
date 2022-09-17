@@ -7,7 +7,7 @@ if(Java.available){
             console.log("Enumerating loaded classes...")
             Java.enumerateLoadedClasses({
                 onMatch: function(className){
-                    if ((className.includes("bytedance") || className.includes("tiktok")) && !classes.includes(className)){
+                    if ((!className.includes("instagram") && !className.includes("facebook")) && !classes.includes(className) && className.includes("X.")){
                         classes.push(className)
                     }
                 },

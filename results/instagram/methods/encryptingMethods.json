@@ -1,0 +1,772 @@
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "com.facebook.msys.mci.DatabaseFileManager",
+        "methods": [
+          "maybeDecryptDatabaseNative"
+        ]
+      },
+      {
+        "name": "com.facebook.soloader.MergedSoMapping$Invoke_JNI_OnLoad",
+        "methods": [
+          "libadvancedcryptotransport_jni_so",
+          "libcryptocontextholder_so",
+          "libcryptox_so",
+          "libmailboxadvancedcryptodualsendjni_so",
+          "libmailboxadvancedcryptotransportjni_so",
+          "libproxygen_lib_utils_crypt_so",
+          "librsyscryptocontextfactoryjni_so",
+          "librsyscryptojni_so"
+        ]
+      },
+      {
+        "name": "com.facebook.msys.mca.Mailbox",
+        "methods": [
+          "logoutAndEncryptNative",
+          "shutdownAndEncryptNative",
+          "logoutAndEncrypt",
+          "shutdownAndEncrypt"
+        ]
+      }
+    ]
+  },
+  {
+    "loader": null,
+    "classes": [
+      {
+        "name": "android.net.sip.SimpleSessionDescription$Media",
+        "methods": [
+          "getEncryptionKey",
+          "getEncryptionMethod",
+          "setEncryption"
+        ]
+      },
+      {
+        "name": "android.net.sip.SimpleSessionDescription$Fields",
+        "methods": [
+          "getEncryptionKey",
+          "getEncryptionMethod",
+          "setEncryption"
+        ]
+      },
+      {
+        "name": "android.net.sip.SimpleSessionDescription",
+        "methods": [
+          "getEncryptionKey",
+          "getEncryptionMethod",
+          "setEncryption"
+        ]
+      },
+      {
+        "name": "gov.nist.javax.sip.header.ims.SecurityAgreeHeader",
+        "methods": [
+          "getEncryptionAlgorithm",
+          "setEncryptionAlgorithm"
+        ]
+      },
+      {
+        "name": "gov.nist.javax.sip.header.ims.SecurityAgree",
+        "methods": [
+          "getEncryptionAlgorithm",
+          "setEncryptionAlgorithm"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.RIL",
+        "methods": [
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.RadioIndication",
+        "methods": [
+          "carrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.uicc.PinStorage",
+        "methods": [
+          "decrypt",
+          "decryptStoredPin",
+          "encrypt"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.PhoneInternalInterface",
+        "methods": [
+          "getCarrierInfoForImsiEncryption",
+          "resetCarrierKeysForImsiEncryption",
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "android.internal.telephony.sysprop.VoldProperties",
+        "methods": [
+          "decrypt",
+          "encrypt_progress",
+          "encrypt_time_remaining"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.imsphone.ImsPhoneCommandInterface",
+        "methods": [
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.BaseCommands",
+        "methods": [
+          "registerForCarrierInfoForImsiEncryption",
+          "unregisterForCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.CarrierInfoManager",
+        "methods": [
+          "deleteAllCarrierKeysForImsiEncryption",
+          "deleteCarrierInfoForImsiEncryption",
+          "getCarrierInfoForImsiEncryption",
+          "setCarrierInfoForImsiEncryption",
+          "resetCarrierKeysForImsiEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.Phone",
+        "methods": [
+          "deleteCarrierInfoForImsiEncryption",
+          "getCarrierInfoForImsiEncryption",
+          "resetCarrierKeysForImsiEncryption",
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.CommandsInterface",
+        "methods": [
+          "registerForCarrierInfoForImsiEncryption",
+          "setCarrierInfoForImsiEncryption",
+          "unregisterForCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.GsmCdmaPhone",
+        "methods": [
+          "deleteCarrierInfoForImsiEncryption",
+          "getCarrierInfoForImsiEncryption",
+          "resetCarrierKeysForImsiEncryption",
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.PhoneSubInfoController",
+        "methods": [
+          "lambda$getCarrierInfoForImsiEncryption$3",
+          "lambda$resetCarrierKeysForImsiEncryption$5",
+          "lambda$setCarrierInfoForImsiEncryption$4",
+          "getCarrierInfoForImsiEncryption",
+          "resetCarrierKeysForImsiEncryption",
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.sip.SipCommandInterface",
+        "methods": [
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.RadioResponse",
+        "methods": [
+          "setCarrierInfoForImsiEncryptionResponse"
+        ]
+      },
+      {
+        "name": "android.os.RecoverySystem",
+        "methods": [
+          "uncrypt"
+        ]
+      },
+      {
+        "name": "android.os.storage.IStorageManager$Stub$Proxy",
+        "methods": [
+          "changeEncryptionPassword",
+          "decryptStorage",
+          "encryptStorage",
+          "getEncryptionState",
+          "verifyEncryptionPassword"
+        ]
+      },
+      {
+        "name": "com.android.internal.widget.ILockSettings",
+        "methods": [
+          "updateEncryptionPassword"
+        ]
+      },
+      {
+        "name": "com.android.internal.widget.LockPatternUtils",
+        "methods": [
+          "isDeviceEncryptionEnabled",
+          "isFileEncryptionEnabled",
+          "clearEncryptionPassword",
+          "isCredentialRequiredToDecrypt",
+          "setCredentialRequiredToDecrypt"
+        ]
+      },
+      {
+        "name": "android.os.IRecoverySystem",
+        "methods": [
+          "uncrypt"
+        ]
+      },
+      {
+        "name": "android.security.keystore.KeyGenParameterSpec$Builder",
+        "methods": [
+          "setCriticalToDeviceEncryption",
+          "setEncryptionPaddings",
+          "setRandomizedEncryptionRequired"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.V1_1.IRadioResponse",
+        "methods": [
+          "setCarrierInfoForImsiEncryptionResponse"
+        ]
+      },
+      {
+        "name": "android.os.storage.StorageManager",
+        "methods": [
+          "isBlockEncrypted",
+          "isBlockEncrypting",
+          "isEncryptable",
+          "isEncrypted",
+          "isFileEncryptedEmulatedOnly",
+          "isFileEncryptedNativeOnly",
+          "isFileEncryptedNativeOrEmulated",
+          "isNonDefaultBlockEncrypted"
+        ]
+      },
+      {
+        "name": "android.net.IpSecTransform$Builder",
+        "methods": [
+          "setAuthenticatedEncryption",
+          "setEncryption"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.V1_1.IRadio",
+        "methods": [
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "android.security.keystore.KeyInfo",
+        "methods": [
+          "getEncryptionPaddings"
+        ]
+      },
+      {
+        "name": "android.bluetooth.BluetoothAdapter",
+        "methods": [
+          "listenUsingEncryptedRfcommWithServiceRecord"
+        ]
+      },
+      {
+        "name": "android.os.storage.IStorageManager",
+        "methods": [
+          "changeEncryptionPassword",
+          "decryptStorage",
+          "encryptStorage",
+          "getEncryptionState",
+          "verifyEncryptionPassword"
+        ]
+      },
+      {
+        "name": "android.os.IUserManager",
+        "methods": [
+          "evictCredentialEncryptionKey"
+        ]
+      },
+      {
+        "name": "android.telephony.TelephonyManager",
+        "methods": [
+          "isImsiEncryptionRequired",
+          "getCarrierInfoForImsiEncryption",
+          "resetCarrierKeysForImsiEncryption",
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "android.sysprop.VoldProperties",
+        "methods": [
+          "decrypt",
+          "encrypt_progress",
+          "encrypt_time_remaining"
+        ]
+      },
+      {
+        "name": "android.os.IVold$Stub$Proxy",
+        "methods": [
+          "encryptFstab",
+          "mountDefaultEncrypted"
+        ]
+      },
+      {
+        "name": "android.webkit.WebSettings",
+        "methods": [
+          "getVideoOverlayForEmbeddedEncryptedVideoEnabled",
+          "setVideoOverlayForEmbeddedEncryptedVideoEnabled"
+        ]
+      },
+      {
+        "name": "android.security.keystore.recovery.KeyChainSnapshot",
+        "methods": [
+          "getEncryptedRecoveryKeyBlob"
+        ]
+      },
+      {
+        "name": "android.net.IpSecAlgorithm",
+        "methods": [
+          "isEncryption"
+        ]
+      },
+      {
+        "name": "com.android.internal.widget.ILockSettings$Stub$Proxy",
+        "methods": [
+          "updateEncryptionPassword"
+        ]
+      },
+      {
+        "name": "android.security.keystore.KeyProtection",
+        "methods": [
+          "getEncryptionPaddings",
+          "isCriticalToDeviceEncryption",
+          "isRandomizedEncryptionRequired"
+        ]
+      },
+      {
+        "name": "android.security.keystore.recovery.WrappedApplicationKey$Builder",
+        "methods": [
+          "setEncryptedKeyMaterial"
+        ]
+      },
+      {
+        "name": "android.media.MediaDrm$CryptoSession",
+        "methods": [
+          "decrypt",
+          "encrypt"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.IPhoneSubInfo",
+        "methods": [
+          "getCarrierInfoForImsiEncryption",
+          "resetCarrierKeysForImsiEncryption",
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "android.hardware.location.NanoAppBinary",
+        "methods": [
+          "isEncrypted"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.V1_4.IRadio$Proxy",
+        "methods": [
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "android.media.MediaCodec$QueueRequest",
+        "methods": [
+          "setEncryptedLinearBlock"
+        ]
+      },
+      {
+        "name": "android.net.IpSecConfig",
+        "methods": [
+          "getAuthenticatedEncryption",
+          "getEncryption",
+          "setAuthenticatedEncryption",
+          "setEncryption"
+        ]
+      },
+      {
+        "name": "android.app.admin.IDevicePolicyManager$Stub$Proxy",
+        "methods": [
+          "getStorageEncryption",
+          "getStorageEncryptionStatus",
+          "setStorageEncryption"
+        ]
+      },
+      {
+        "name": "android.security.keystore.recovery.KeyDerivationParams",
+        "methods": [
+          "createScryptParams"
+        ]
+      },
+      {
+        "name": "android.security.Scrypt",
+        "methods": [
+          "nativeScrypt",
+          "scrypt"
+        ]
+      },
+      {
+        "name": "android.os.IVold",
+        "methods": [
+          "encryptFstab",
+          "mountDefaultEncrypted"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.V1_1.IRadioIndication",
+        "methods": [
+          "carrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "android.content.pm.ApplicationInfo",
+        "methods": [
+          "isEncryptionAware"
+        ]
+      },
+      {
+        "name": "android.app.admin.IDevicePolicyManager",
+        "methods": [
+          "getStorageEncryption",
+          "getStorageEncryptionStatus",
+          "setStorageEncryption"
+        ]
+      },
+      {
+        "name": "android.media.MediaDrm",
+        "methods": [
+          "decryptNative",
+          "encryptNative"
+        ]
+      },
+      {
+        "name": "android.os.IUserManager$Stub$Proxy",
+        "methods": [
+          "evictCredentialEncryptionKey"
+        ]
+      },
+      {
+        "name": "android.media.MediaCodec$CryptoInfo$Pattern",
+        "methods": [
+          "getEncryptBlocks"
+        ]
+      },
+      {
+        "name": "android.security.keystore.KeyProtection$Builder",
+        "methods": [
+          "setCriticalToDeviceEncryption",
+          "setEncryptionPaddings",
+          "setRandomizedEncryptionRequired"
+        ]
+      },
+      {
+        "name": "com.android.internal.telephony.IPhoneSubInfo$Stub$Proxy",
+        "methods": [
+          "getCarrierInfoForImsiEncryption",
+          "resetCarrierKeysForImsiEncryption",
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "android.app.admin.DevicePolicyManager",
+        "methods": [
+          "getStorageEncryption",
+          "getStorageEncryptionStatus",
+          "setStorageEncryption"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.V1_3.IRadio$Proxy",
+        "methods": [
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "android.bluetooth.BluetoothDevice",
+        "methods": [
+          "isEncrypted"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.V1_1.IRadio$Proxy",
+        "methods": [
+          "setCarrierInfoForImsiEncryption"
+        ]
+      },
+      {
+        "name": "android.security.keystore.recovery.KeyChainSnapshot$Builder",
+        "methods": [
+          "setEncryptedRecoveryKeyBlob"
+        ]
+      },
+      {
+        "name": "android.os.UserManager",
+        "methods": [
+          "evictCredentialEncryptionKey"
+        ]
+      },
+      {
+        "name": "android.security.keystore.recovery.WrappedApplicationKey",
+        "methods": [
+          "getEncryptedKeyMaterial"
+        ]
+      },
+      {
+        "name": "android.security.keystore.KeyGenParameterSpec",
+        "methods": [
+          "getEncryptionPaddings",
+          "isCriticalToDeviceEncryption",
+          "isRandomizedEncryptionRequired"
+        ]
+      },
+      {
+        "name": "android.security.KeyPairGeneratorSpec",
+        "methods": [
+          "isEncryptionRequired"
+        ]
+      },
+      {
+        "name": "android.hardware.radio.V1_6.IRadio",
+        "methods": [
+          "setCarrierInfoForImsiEncryption_1_6"
+        ]
+      },
+      {
+        "name": "com.android.org.bouncycastle.crypto.engines.AESEngine",
+        "methods": [
+          "decryptBlock",
+          "encryptBlock"
+        ]
+      },
+      {
+        "name": "sun.security.pkcs.SignerInfo",
+        "methods": [
+          "getDigestEncryptionAlgorithmId",
+          "getEncryptedDigest"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.message.IkeMessage$IIkeMessageHelper",
+        "methods": [
+          "encryptAndEncode"
+        ]
+      },
+      {
+        "name": "android.net.ipsec.ike.IkeSaProposal",
+        "methods": [
+          "getSupportedEncryptionAlgorithms"
+        ]
+      },
+      {
+        "name": "com.android.org.conscrypt.Conscrypt",
+        "methods": [
+          "isConscrypt",
+          "maxEncryptedPacketLength",
+          "toConscrypt"
+        ]
+      },
+      {
+        "name": "com.android.org.conscrypt.ConscryptEngine",
+        "methods": [
+          "readEncryptedData",
+          "readEncryptedDataDirect",
+          "readEncryptedDataHeap",
+          "writeEncryptedData",
+          "writeEncryptedDataDirect",
+          "writeEncryptedDataHeap",
+          "pendingOutboundEncryptedBytes"
+        ]
+      },
+      {
+        "name": "android.media.internal.exo.extractor.mp4.AtomParsers",
+        "methods": [
+          "parseCommonEncryptionSinfFromParent",
+          "parseSampleEntryEncryptionData"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.message.IkeSkPayload",
+        "methods": [
+          "getUnencryptedData"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.message.IkeMessage$IkeMessageHelper",
+        "methods": [
+          "decryptAndAuthenticate",
+          "encryptAndEncode"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.crypto.IkeCombinedModeCipher",
+        "methods": [
+          "decrypt",
+          "encrypt"
+        ]
+      },
+      {
+        "name": "android.media.internal.exo.extractor.mp4.FragmentedMp4Extractor",
+        "methods": [
+          "readEncryptionData"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.crypto.IkeNormalModeCipher",
+        "methods": [
+          "decrypt",
+          "encrypt"
+        ]
+      },
+      {
+        "name": "com.android.org.conscrypt.SSLUtils",
+        "methods": [
+          "getEncryptedPacketLength"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.IkeSessionStateMachine",
+        "methods": [
+          "buildEncryptedInformationalMessage",
+          "buildEncryptedNotificationMessage",
+          "sendEncryptedIkeMessage"
+        ]
+      },
+      {
+        "name": "android.net.ipsec.ike.SaProposal",
+        "methods": [
+          "getEncryptionAlgorithmString",
+          "getEncryptionAlgorithms",
+          "getEncryptionTransforms"
+        ]
+      },
+      {
+        "name": "com.android.org.conscrypt.OpenSSLCipher",
+        "methods": [
+          "isEncrypting"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.message.IkeMessage",
+        "methods": [
+          "encryptAndEncode"
+        ]
+      },
+      {
+        "name": "android.net.ipsec.ike.IkeSaProposal$Builder",
+        "methods": [
+          "addEncryptionAlgorithm"
+        ]
+      },
+      {
+        "name": "android.media.internal.exo.extractor.mp4.TrackFragment",
+        "methods": [
+          "fillEncryptionData",
+          "initEncryptionData",
+          "sampleHasSubsampleEncryptionTable"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.crypto.AesXCbcImpl",
+        "methods": [
+          "encryptAesBlock"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.eap.statemachine.EapMsChapV2MethodStateMachine",
+        "methods": [
+          "desEncrypt"
+        ]
+      },
+      {
+        "name": "com.android.org.conscrypt.NativeCrypto",
+        "methods": [
+          "EVP_PKEY_decrypt",
+          "EVP_PKEY_decrypt_init",
+          "EVP_PKEY_encrypt",
+          "EVP_PKEY_encrypt_init",
+          "RSA_private_decrypt",
+          "RSA_private_encrypt",
+          "RSA_public_decrypt",
+          "RSA_public_encrypt",
+          "chacha20_encrypt_decrypt"
+        ]
+      },
+      {
+        "name": "android.media.internal.exo.extractor.mp4.Track",
+        "methods": [
+          "getSampleDescriptionEncryptionBox"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.SaRecord",
+        "methods": [
+          "getInboundDecryptionKey",
+          "getOutboundEncryptionKey"
+        ]
+      },
+      {
+        "name": "android.net.ipsec.ike.ChildSaProposal",
+        "methods": [
+          "getSupportedEncryptionAlgorithms"
+        ]
+      },
+      {
+        "name": "android.net.ipsec.ike.SaProposal$Builder",
+        "methods": [
+          "buildEncryptAlgosOrThrow",
+          "validateAndAddEncryptAlgo"
+        ]
+      },
+      {
+        "name": "com.android.org.conscrypt.CryptoUpcalls",
+        "methods": [
+          "rsaDecryptWithPrivateKey"
+        ]
+      },
+      {
+        "name": "android.net.ipsec.ike.ChildSaProposal$Builder",
+        "methods": [
+          "addEncryptionAlgorithm"
+        ]
+      },
+      {
+        "name": "com.android.org.conscrypt.Platform",
+        "methods": [
+          "supportsConscryptCertStore"
+        ]
+      },
+      {
+        "name": "android.media.internal.exo.extractor.mp4.FragmentedMp4Extractor$TrackBundle",
+        "methods": [
+          "getEncryptionBoxIfEncrypted",
+          "skipSampleEncryptionData",
+          "outputSampleEncryptionData"
+        ]
+      },
+      {
+        "name": "com.android.internal.net.ipsec.ike.message.IkeEncryptedPayloadBody",
+        "methods": [
+          "combinedModeDecrypt",
+          "combinedModeEncrypt",
+          "normalModeDecrypt",
+          "normalModeEncrypt",
+          "getUnencryptedData"
+        ]
+      },
+      {
+        "name": "android.security.keystore2.AndroidKeyStoreCipherSpiBase",
+        "methods": [
+          "isEncrypting"
+        ]
+      }
+    ]
+  }
+]

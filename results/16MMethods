@@ -1,0 +1,26 @@
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "X.16M",
+        "methods": [
+          "$init",
+          "A00",
+          "AE8",
+          "Bj6",
+          "C4l",
+          "C5C",
+          "CL2",
+          "cancel",
+          "onBody",
+          "onBodyBytesGenerated",
+          "onEOM",
+          "onFirstByteFlushed",
+          "onHeaderBytesReceived",
+          "onLastByteAcked"
+        ]
+      }
+    ]
+  }
+]

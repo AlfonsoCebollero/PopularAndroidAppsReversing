@@ -1,0 +1,219 @@
+/* TID 0x10fe */
+1827911 ms  0cg.A0D("<instance: X.0LV, $className: X.0cg>", "extra")
+1827911 ms     | 0cg.A01("extra")
+1827912 ms     |    | 0cg.A01("extra")
+1827912 ms     | 0cg.A01("marker_id")
+1827912 ms     | 0cg.A01("instance_id")
+1827912 ms     | 0cg.A01("sample_rate")
+1827913 ms     | 0cg.A01("sample_source")
+1827913 ms     | 0cg.A01("time_since_boot_ms")
+1827913 ms     | 0cg.A01("duration_ns")
+1827914 ms     | 0cg.A01("action_id")
+1827914 ms     | 0cg.A01("marker_type")
+1827914 ms     | 0cg.A01("method")
+1827914 ms  0cg.A0D("<instance: X.0LV, $className: X.0cg>", "annotations")
+1827914 ms     | 0cg.A01("annotations")
+1827915 ms     |    | 0cg.A01("annotations")
+1827915 ms     | 0cg.A01("qpl_pivot_name")
+1827917 ms     | 0cg.A01("stash_name")
+1827918 ms  0cg.A0D("<instance: X.0LV, $className: X.0cg>", "annotations_int")
+1827918 ms     | 0cg.A01("annotations_int")
+1827919 ms     |    | 0cg.A01("annotations_int")
+1827920 ms     | 0cg.A01("qpl_pivot_host")
+1827920 ms     | 0cg.A01("read_bytes")
+1827920 ms     | 0cg.A01("marker")
+1827920 ms     | 0cg.A01("pk")
+1827921 ms     | 0cg.A01("release_channel")
+1827921 ms     | 0cg.A01("radio_type")
+1827921 ms     | 0cg.A01("pigeon_reserved_keyword_requested_latency")
+1827922 ms  0cg.A00("<instance: X.0cg>", "<instance: java.lang.Object, $className: java.lang.String>", "log_type")
+1827925 ms     | 0cg.A01("log_type")
+1827925 ms     | 0cg.A01("bg")
+1827926 ms     | 0cg.A01("time")
+1827926 ms     | 0cg.A01("name")
+1827927 ms     | 0cg.A01("sampling_rate")
+1827932 ms     | 0cg.A01("tags")
+        /* TID 0x1100 */
+1827936 ms  0cg.A0C(0)
+1827936 ms  <= "extra"
+1827936 ms  0cg.A0B(0)
+1827936 ms  <= "<instance: java.lang.Object, $className: X.0cg>"
+1827936 ms  0cg.A0C(0)
+1827937 ms  <= "marker_id"
+1827937 ms  0cg.A0B(0)
+1827937 ms  <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827938 ms  0cg.A0C(1)
+1827940 ms  <= "instance_id"
+1827940 ms  0cg.A0B(1)
+1827940 ms  <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827940 ms  0cg.A0C(2)
+1827941 ms  <= "sample_rate"
+1827941 ms  0cg.A0B(2)
+1827941 ms  <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827941 ms  0cg.A0C(3)
+1827944 ms  <= "sample_source"
+1827944 ms  0cg.A0B(3)
+1827944 ms  <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827945 ms  0cg.A0C(4)
+1827945 ms  <= "time_since_boot_ms"
+1827945 ms  0cg.A0B(4)
+1827945 ms  <= "<instance: java.lang.Object, $className: java.lang.Long>"
+1827946 ms  0cg.A0C(5)
+1827946 ms  <= "duration_ns"
+1827946 ms  0cg.A0B(5)
+1827946 ms  <= "<instance: java.lang.Object, $className: java.lang.Long>"
+1827947 ms  0cg.A0C(6)
+1827947 ms  <= "action_id"
+1827947 ms  0cg.A0B(6)
+1827948 ms  <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827948 ms  0cg.A0C(7)
+1827948 ms  <= "marker_type"
+1827948 ms  0cg.A0B(7)
+1827948 ms  <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827950 ms  0cg.A0C(8)
+1827950 ms  <= "method"
+1827950 ms  0cg.A0B(8)
+1827951 ms  <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827951 ms  0cg.A0C(9)
+1827951 ms  <= "annotations"
+1827951 ms  0cg.A0B(9)
+1827952 ms  <= "<instance: java.lang.Object, $className: X.0cg>"
+1827953 ms  0cg.A0C(0)
+1827953 ms  <= "qpl_pivot_name"
+1827953 ms  0cg.A0B(0)
+1827953 ms  <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827954 ms  0cg.A0C(1)
+1827954 ms  <= "stash_name"
+1827954 ms  0cg.A0B(1)
+1827954 ms  <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827956 ms  0cg.A0C(10)
+1827957 ms  <= "annotations_int"
+1827957 ms  0cg.A0B(10)
+1827957 ms  <= "<instance: java.lang.Object, $className: X.0cg>"
+1827957 ms  0cg.A0C(0)
+1827958 ms  <= "qpl_pivot_host"
+1827958 ms  0cg.A0B(0)
+1827958 ms  <= "<instance: java.lang.Object, $className: java.lang.Long>"
+1827960 ms  0cg.A0C(1)
+1827960 ms  <= "read_bytes"
+1827960 ms  0cg.A0B(1)
+1827961 ms  <= "<instance: java.lang.Object, $className: java.lang.Long>"
+1827961 ms  0cg.A0C(11)
+1827961 ms  <= "marker"
+1827962 ms  0cg.A0B(11)
+1827963 ms  <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827964 ms  0cg.A0C(12)
+1827964 ms  <= "pk"
+1827965 ms  0cg.A0B(12)
+1827966 ms  <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827968 ms  0cg.A0C(13)
+1827969 ms  <= "release_channel"
+1827969 ms  0cg.A0B(13)
+1827969 ms  <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827969 ms  0cg.A0C(14)
+1827969 ms  <= "radio_type"
+1827970 ms  0cg.A0B(14)
+1827970 ms  <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827970 ms  0cg.A0C(15)
+1827970 ms  <= "pigeon_reserved_keyword_requested_latency"
+1827970 ms  0cg.A0B(15)
+1827970 ms  <= "<instance: java.lang.Object, $className: java.lang.Double>"
+1827971 ms  0cg.A0C(1)
+1827974 ms  <= "log_type"
+1827974 ms  0cg.A0B(1)
+1827974 ms  <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827975 ms  0cg.A0C(2)
+1827975 ms  <= "bg"
+1827975 ms  0cg.A0B(2)
+1827976 ms  <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827976 ms  0cg.A0C(3)
+1827977 ms  <= "time"
+1827977 ms  0cg.A0B(3)
+1827977 ms  <= "<instance: java.lang.Object, $className: java.lang.Double>"
+1827978 ms  0cg.A0C(4)
+1827978 ms  <= "name"
+1827978 ms  0cg.A0B(4)
+1827978 ms  <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827978 ms  0cg.A0C(5)
+1827979 ms  <= "sampling_rate"
+1827979 ms  0cg.A0B(5)
+1827979 ms  <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827980 ms  0cg.A0C(6)
+1827981 ms  <= "tags"
+1827981 ms  0cg.A0B(6)
+1827981 ms  <= "<instance: java.lang.Object, $className: java.lang.Long>"
+1827982 ms  0cg.A09()
+1827983 ms     | 0cg.A0B(0)
+1827983 ms     | <= "<instance: java.lang.Object, $className: X.0cg>"
+1827984 ms     | 0cg.A09()
+1827984 ms     |    | 0cg.A0B(0)
+1827985 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827985 ms     |    | 0cg.A0B(1)
+1827986 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827986 ms     |    | 0cg.A0B(2)
+1827987 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827993 ms     |    | 0cg.A0B(3)
+1827993 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827993 ms     |    | 0cg.A0B(4)
+1827993 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.Long>"
+1827994 ms     |    | 0cg.A0B(5)
+1827994 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.Long>"
+1827995 ms     |    | 0cg.A0B(6)
+1827995 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827996 ms     |    | 0cg.A0B(7)
+1827996 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1827996 ms     |    | 0cg.A0B(8)
+1827997 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.String>"
+1827998 ms     |    | 0cg.A0B(9)
+1827998 ms     |    | <= "<instance: java.lang.Object, $className: X.0cg>"
+1827998 ms     |    | 0cg.A09()
+1827998 ms     |    |    | 0cg.A0B(0)
+1827999 ms     |    |    | <= "<instance: java.lang.Object, $className: java.lang.String>"
+1828001 ms     |    |    | 0cg.A0B(1)
+1828001 ms     |    |    | <= "<instance: java.lang.Object, $className: java.lang.String>"
+1828001 ms     |    | 0cg.A0A(32)
+1828002 ms     |    | 0cg.A07()
+1828002 ms     |    | 0cg.A08()
+1828003 ms     |    | 0cg.A0B(10)
+1828003 ms     |    | <= "<instance: java.lang.Object, $className: X.0cg>"
+1828003 ms     |    | 0cg.A09()
+1828003 ms     |    |    | 0cg.A0B(0)
+1828004 ms     |    |    | <= "<instance: java.lang.Object, $className: java.lang.Long>"
+1828004 ms     |    |    | 0cg.A0B(1)
+1828004 ms     |    |    | <= "<instance: java.lang.Object, $className: java.lang.Long>"
+1828004 ms     |    | 0cg.A0A(32)
+1828005 ms     |    | 0cg.A07()
+1828005 ms     |    | 0cg.A08()
+1828005 ms     |    | 0cg.A0B(11)
+1828005 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.String>"
+1828006 ms     |    | 0cg.A0B(12)
+1828006 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.String>"
+1828007 ms     |    | 0cg.A0B(13)
+1828008 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.String>"
+1828008 ms     |    | 0cg.A0B(14)
+1828009 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.String>"
+1828009 ms     |    | 0cg.A0B(15)
+1828009 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.Double>"
+1828009 ms     | 0cg.A0A(32)
+1828009 ms     | 0cg.A07()
+1828009 ms     | 0cg.A08()
+1828010 ms     | 0cg.A0B(1)
+1828010 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+1828010 ms     | 0cg.A0B(2)
+1828011 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+1828011 ms     | 0cg.A0B(3)
+1828012 ms     | <= "<instance: java.lang.Object, $className: java.lang.Double>"
+1828014 ms     | 0cg.A0B(4)
+1828014 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+1828015 ms     | 0cg.A0B(5)
+1828017 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+1828017 ms     | 0cg.A0B(6)
+1828017 ms     | <= "<instance: java.lang.Object, $className: java.lang.Long>"
+1828018 ms  0cg.A0A(32)
+1828019 ms  0cg.A07()
+1828020 ms  0cg.A08()
+X.0cg@b498b9c
+[extra, X.0cg@9ba48d1]
+1
+client_event
+log_type

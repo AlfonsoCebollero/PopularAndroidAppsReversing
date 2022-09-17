@@ -1,0 +1,14 @@
+[
+  {
+    "loader": "<instance: java.lang.ClassLoader, $className: dalvik.system.PathClassLoader>",
+    "classes": [
+      {
+        "name": "X.0Wy",
+        "methods": [
+          "$init",
+          "A00"
+        ]
+      }
+    ]
+  }
+]
